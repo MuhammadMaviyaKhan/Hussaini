@@ -1,0 +1,9 @@
+{
+  "width": 1440,
+  "height": 900,
+  "steps": [
+    { "goto": "/duas/dua-nudbah#passage-9", "wait": 1200, "shot": "nudbah-passage9" },
+    { "scrollTo": 1400, "wait": 600, "shot": "nudbah-scroll" },
+    { "eval": "({ url: location.href, passages: document.querySelectorAll('.reader-passage').length, urduBlocks: document.querySelectorAll('.reader-lang--urdu').length, scrollY: window.scrollY })", "log": "NUDBAH" }
+  ]
+}

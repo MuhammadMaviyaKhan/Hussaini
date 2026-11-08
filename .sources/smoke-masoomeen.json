@@ -1,0 +1,20 @@
+{
+  "width": 1440,
+  "height": 900,
+  "steps": [
+    { "goto": "/masoomeen/prophet-muhammad", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "prophet-muhammad" },
+    { "goto": "/masoomeen/imam-ali", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-ali" },
+    { "goto": "/masoomeen/fatima-zahra", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "fatima-zahra" },
+    { "goto": "/masoomeen/imam-hasan", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-hasan" },
+    { "goto": "/masoomeen/imam-hussain", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-hussain" },
+    { "goto": "/masoomeen/imam-sajjad", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-sajjad" },
+    { "goto": "/masoomeen/imam-baqir", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-baqir" },
+    { "goto": "/masoomeen/imam-sadiq", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-sadiq" },
+    { "goto": "/masoomeen/imam-kadhim", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-kadhim" },
+    { "goto": "/masoomeen/imam-reza", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-reza" },
+    { "goto": "/masoomeen/imam-jawad", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-jawad" },
+    { "goto": "/masoomeen/imam-hadi", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-hadi" },
+    { "goto": "/masoomeen/imam-askari", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-askari" },
+    { "goto": "/masoomeen/imam-mahdi", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "imam-mahdi" }
+  ]
+}

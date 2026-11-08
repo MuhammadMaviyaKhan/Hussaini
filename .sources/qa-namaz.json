@@ -1,0 +1,14 @@
+{
+  "width": 1440,
+  "height": 900,
+  "steps": [
+    { "goto": "/namaz" },
+    { "scrollTo": 950, "shot": "qa-namaz-prereq" },
+    { "scrollTo": 2150, "shot": "qa-namaz-steps" },
+    { "eval": "document.querySelectorAll('.prayer-step-button')[3].click()", "wait": 500 },
+    { "shot": "qa-namaz-step4" },
+    { "scrollTo": 3700, "shot": "qa-namaz-texts" },
+    { "scrollTo": 5200, "shot": "qa-namaz-adhan" },
+    { "scrollTo": 6700, "shot": "qa-namaz-faq" }
+  ]
+}

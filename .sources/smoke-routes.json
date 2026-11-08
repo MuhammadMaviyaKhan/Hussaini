@@ -1,0 +1,25 @@
+{
+  "width": 1440,
+  "height": 900,
+  "steps": [
+    { "goto": "/", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "HOME" },
+    { "goto": "/ahlulbayt", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "AHLULBAYT" },
+    { "goto": "/masoomeen", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim(), cards: document.querySelectorAll('.masoom-card, [class*=masoom]').length })", "log": "MASOOMEEN" },
+    { "goto": "/masoomeen/imam-ali-ibn-abi-talib", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "MASOOM-DETAIL" },
+    { "goto": "/quran", "wait": 1000, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim(), surahs: document.querySelectorAll('.surah-card, [class*=surah]').length })", "log": "QURAN" },
+    { "goto": "/duas", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim(), cards: document.querySelectorAll('.supplication-card').length })", "log": "DUAS" },
+    { "goto": "/ziyarat", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim(), cards: document.querySelectorAll('.supplication-card').length })", "log": "ZIYARAT" },
+    { "goto": "/karbala", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "KARBALA" },
+    { "goto": "/muharram", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "MUHARRAM" },
+    { "goto": "/calendar", "wait": 1000, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "CALENDAR" },
+    { "goto": "/hadith", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "HADITH" },
+    { "goto": "/books", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "BOOKS" },
+    { "goto": "/namaz", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "NAMAZ" },
+    { "goto": "/wudu", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "WUDU" },
+    { "goto": "/tasbeeh", "wait": 800, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "TASBEEH" },
+    { "goto": "/contact", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "CONTACT" },
+    { "goto": "/about", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "ABOUT" },
+    { "goto": "/credits", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "CREDITS" },
+    { "goto": "/this-route-does-not-exist", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('h1')?.textContent?.trim() })", "log": "404" }
+  ]
+}

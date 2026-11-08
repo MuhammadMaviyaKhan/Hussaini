@@ -1,0 +1,14 @@
+{
+  "width": 1440,
+  "height": 900,
+  "steps": [
+    { "goto": "/duas/dua-kumayl", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('.reader-hero h1')?.textContent?.trim(), passages: document.querySelectorAll('.reader-passage').length })", "log": "dua-kumayl" },
+    { "goto": "/duas/dua-tawassul", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('.reader-hero h1')?.textContent?.trim(), passages: document.querySelectorAll('.reader-passage').length })", "log": "dua-tawassul" },
+    { "goto": "/duas/dua-nudbah", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('.reader-hero h1')?.textContent?.trim(), passages: document.querySelectorAll('.reader-passage').length })", "log": "dua-nudbah" },
+    { "goto": "/duas/dua-faraj", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('.reader-hero h1')?.textContent?.trim(), passages: document.querySelectorAll('.reader-passage').length })", "log": "dua-faraj" },
+    { "goto": "/ziyarat/ziyarat-ashura", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('.reader-hero h1')?.textContent?.trim(), passages: document.querySelectorAll('.reader-passage').length })", "log": "ziyarat-ashura" },
+    { "goto": "/ziyarat/ziyarat-waritha", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('.reader-hero h1')?.textContent?.trim(), passages: document.querySelectorAll('.reader-passage').length })", "log": "ziyarat-waritha" },
+    { "goto": "/ziyarat/ziyarat-aal-e-yasin", "wait": 700, "eval": "({ t: document.title, h1: document.querySelector('.reader-hero h1')?.textContent?.trim(), passages: document.querySelectorAll('.reader-passage').length })", "log": "ziyarat-aal-e-yasin" },
+    { "goto": "/ziyarat/ziyarat-jamia-kabira", "wait": 1800, "eval": "({ t: document.title, h1: document.querySelector('.reader-hero h1')?.textContent?.trim(), passages: document.querySelectorAll('.reader-passage').length })", "log": "ziyarat-jamia-kabira" }
+  ]
+}

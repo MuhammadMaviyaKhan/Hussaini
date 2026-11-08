@@ -1,0 +1,77 @@
+0 | Peace be upon the Household of Yasin. | سَلاَمٌ عَلَىٰ آلِ يـٰس
+1 | Peace be upon you, O caller to Allah and interpreter of His Verses. | اَلسَّلاَمُ عَلَيْكَ يَا دَاعِيَ ٱللَّهِ وَرَبَّانِيَّ آيَاتِهِ
+2 | Peace be upon you, O door to Allah and applier of His religion. | اَلسَّلاَمُ عَلَيْكَ يَا بَابَ ٱللَّهِ وَدَيَّانَ دِينِهِ
+3 | Peace be upon you, O viceroy of Allah and backer of His right. | اَلسَّلاَمُ عَلَيْكَ يَا خَلِيفَةَ ٱللَّهِ وَنَاصِرَ حَقِّهِ
+4 | Peace be upon you, O Argument of Allah and sign of His volition. | اَلسَّلاَمُ عَلَيْكَ يَا حُجَّةَ ٱللَّهِ وَدَلِيلَ إِرَادَتِهِ
+5 | Peace be upon you, O reciter of the Book of Allah and its interpreter. | اَلسَّلاَمُ عَلَيْكَ يَا تَالِيَ كِتَابِ ٱللَّهِ وَتَرْجُمَانَهُ
+6 | Peace be upon you at the hours of Your night and the two ends of Your day. | اَلسَّلاَمُ عَلَيْكَ فِي آنَاءِ لَيْلِكَ وَأَطْرَافِ نَهَارِكَ
+7 | Peace be upon you, O herald of Allah on His lands. | اَلسَّلاَمُ عَلَيْكَ يَا بَقِيَّةَ ٱللَّهِ فِي أَرْضِهِ
+8 | Peace be upon you, O covenant of Allah that He has made and confirmed. | اَلسَّلاَمُ عَلَيْكَ يَا مِيثَاقَ ٱللَّهِ ٱلَّذِي أَخَذَهُ وَوَكَّدَهُ
+9 | Peace be upon you, O Promise of Allah that He has assured. | اَلسَّلاَمُ عَلَيْكَ يَا وَعْدَ ٱللَّهِ ٱلَّذِي ضَمِنَهُ
+10 | Peace be upon you, O appointed pennon, | اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْعَلَمُ ٱلْمَنْصُوبُ
+11 | poured knowledge, | وَٱلْعِلْمُ ٱلْمَصْبُوبُ
+12 | aid, and expansive mercy. | وَٱلْغَوْثُ وَٱلرَّحْمَةُ ٱلْوَاسِعَةُ
+13 | This is verily a promise that shall never be belied. | وَعْداً غَيْرَ مَكْذُوبٍ
+14 | Peace be upon you whenever you rise (to undertake the mission). | اَلسَّلاَمُ عَلَيْكَ حِينَ تَقوُمُ
+15 | Peace be upon you whenever you sit. | اَلسَّلاَمُ عَلَيْكَ حِينَ تَقْعُدُ
+16 | Peace be upon you whenever you recite and elucidate. | اَلسَّلاَمُ عَلَيْكَ حِينَ تَقْرَأُ وَتُبَيِّنُ
+17 | Peace be upon you whenever you offer prayer and supplicate. | اَلسَّلاَمُ عَلَيْكَ حِينَ تُصَلِّي وَتَقْنُتُ
+18 | Peace be upon you whenever you genuflect and prostrate (yourself for Allah). | اَلسَّلاَمُ عَلَيْكَ حِينَ تَرْكَعُ وَتَسْجُدُ
+19 | Peace be upon you whenever you profess Allah’s Godhead and profess His All-greatness. | اَلسَّلاَمُ عَلَيْكَ حِينَ تُهَلِّلُ وَتُكَبِّرُ
+20 | Peace be upon you whenever you praise Allah and implore for His forgiveness. | اَلسَّلاَمُ عَلَيْكَ حِينَ تَحْمَدُ وَتَسْتَغْفِرُ
+21 | Peace be upon you whenever you begin and end your day. | اَلسَّلاَمُ عَلَيْكَ حِينَ تُصْبِحُ وَتُمْسِي
+22 | Peace be upon you in the night when it draws a veil | اَلسَّلاَمُ عَلَيْكَ فِي ٱللَّيْلِ إِذَا يَغْشَىٰ
+23 | and the day when it shines in brightness. | وَٱلنَّهَارِ إِذَا تَجَلَّىٰ
+24 | Peace be upon you, O entrusted leader. | اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلإِمَامُ ٱلْمَأْمُونُ
+25 | Peace be upon you, O favored and expected. | اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْمُقَدَّمُ ٱلْمَأْمُولُ
+26 | Peace be upon you to the ultimate meaning of peace. | اَلسَّلاَمُ عَلَيْكَ بِجَوَامِعِ ٱلسَّلاَمِ
+27 | I solicit you, O my master, | أُشْهِدُكَ يَا مَوْلاَيَ
+28 | to testify to me that I bear witness that there is no god but Allah; | أَنِّي أَشْهَدُ أَنْ لاَ إِلٰهَ إِلاَّ ٱللَّهُ
+29 | One and Only Lord and having no associate, | وَحْدَهُ لاَ شَرِيكَ لَهُ
+30 | and that Muhammad is His servant and messenger. | وَأَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ
+31 | There is no one more beloved by Allah than him and his household. | لاَ حَبِيبَ إِلاَّ هُوَ وَأَهْلُهُ
+32 | And I solicit you, O my master, to testify to me that I bear witness | وَأُشْهِدُكَ يَا مَوْلاَيَ
+33 | that `Ali the Commander of the Faithful is His argument, | أَنَّ عَلِيّاً أَمِيرَ ٱلْمُؤْمِنِينَ حُجَّتُهُ
+34 | al-Hasan is His argument, | وَٱلْحَسَنَ حُجَّتُهُ
+35 | al-Husayn is His argument, | وَٱلْحُسَيْنَ حُجَّتُهُ
+36 | `Ali the son of al-Husayn is His argument, | وَعَلِيَّ بْنَ ٱلْحُسَيْنِ حُجَّتُهُ
+37 | Muhammad the son of `Ali is His argument, | وَمُحَمَّدَ بْنَ عَلِيٍّ حُجَّتُهُ
+38 | Ja`far the son of Muhammad is His argument, | وَجَعْفَرَ بْنَ مُحَمَّدٍ حُجَّتُهُ
+39 | Musa the son of Ja`far is His argument, | وَموُسَىٰ بْنَ جَعْفَرٍ حُجَّتُهُ
+40 | `Ali the son of Musa is His argument, | وَعَلِيَّ بْنَ مُوسَىٰ حُجَّتُهُ
+41 | Muhammad the son of `Ali is His argument, | وَمُحَمَّدَ بْنَ عَلِيٍّ حُجَّتُهُ
+42 | `Ali the son of Muhammad is His argument, | وَعَلِيَّ بْنَ مُحَمَّدٍ حُجَّتُهُ
+43 | and al-Hasan the son of `Ali is His argument. | وَٱلْحَسَنَ بْنَ عَلِيٍّ حُجَّتُهُ
+44 | I also bear witness that you are verily the argument of Allah. | وَأَشْهَدُ أَنَّكَ حُجَّةُ ٱللَّهِ
+45 | You all are the first and the last. | أَنْتُمُ ٱلأَوَّلُ وَٱلآخِرُ
+46 | And (I bear witness) that your (promised) Return is undoubtedly true | وَأَنَّ رَجْعَتَكُمْ حَقٌّ لاَ رَيْبَ فِيهَا
+47 | “On the day when its belief avails not a soul | يَوْمَ لاَ يَنْفَعُ نَفْساً إِيـمَانُهَا
+48 | which theretofore believed not, | لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ
+49 | nor in its belief earned good by works,” | أَوْ كَسَبَتْ فِي إِيـمَانِهَا خَيْراً
+50 | death is true, | وَأَنَّ ٱلْمَوْتَ حَقٌّ
+51 | and Nakir and Nakir are true. | وَأَنَّ نَاكِراً وَنَكيراً حَقٌّ
+52 | And I bear witness that the Raising for death is true, | وَأَشْهَدُ أَنَّ ٱلنَّشْرَ حَقٌّ
+53 | the Resurrection is true, | وَٱلْبَعَثَ حَقٌّ
+54 | the Discriminating Bridge is true, | وَأَنَّ ٱلصِّرَاطَ حَقٌّ
+55 | the Watchtower is true, | وَٱلْمِرْصَادَ حَقٌّ
+56 | the Balance (of deeds) is true, | وَٱلْمِيزَانَ حَقٌّ
+57 | the Gathering is true, | وَٱلْحَشْرَ حَقٌّ
+58 | the Reckoning is true, | وَٱلْحِسَابَ حَقٌّ
+59 | Paradise and Hell are true, | وَٱلْجَنَّةَ وَٱلنَّارَ حَقٌّ
+60 | and the promise of Paradise and the threat with Hell are true. | وَٱلْوَعْدَ وَٱلْوَعِيدَ بِهِمَا حَقٌّ
+61 | O My master! Certainly wretched is he who opposes you | يَا مَوْلاَيَ شَقِيَ مَنْ خَالَفَكُمْ
+62 | and certainly happy is he who obeys you. | وَسَعِدَ مَنْ أَطَاعَكُمْ
+63 | So, testify to me all that which I have besought you to testify. | فَٱشْهَدْ عَلَىٰ مَا أَشْهَدْتُكَ عَلَيْهِ
+64 | I am verily an ally of you | وَأَنَا وَلِيٌّ لَكَ
+65 | and denouncing your enemy. | بَرِيءٌ مِنْ عَدُوِّكَ
+66 | The truth is only that which you accept, | فَٱلْحَقُّ مَا رَضِيتُمُوهُ
+67 | the wrong is only that which you disallow, | وَٱلْبَاطِلُ مَا أَسْخَطْتُمُوهُ
+68 | the good is only that which you enjoin, | وَٱلْمَعْرُوفُ مَا أَمَرْتُمْ بِهِ
+69 | and the evil is only that which you forbid. | وَٱلْمُنْكَرُ مَا نَهَيْتُمْ عَنْهُ
+70 | My soul is thus believing in Allah; | فَنَفْسِي مُؤْمِنَةٌ بِٱللَّهِ
+71 | One and Only Lord and having no associate, | وَحْدَهُ لاَ شَريكَ لَهُ
+72 | and also in His Messenger, in the Commander of the Faithful, | وَبِرَسُولِهِ وَبِأَمِيرِ ٱلْمُؤْمِنِينَ
+73 | and in you all, O my master, from the beginning to the end. | وَبِكُمْ يَا مَوْلاَيَ أَوَّلِكُمْ وَآخِرِكُمْ
+74 | I have prepared myself to back you | وَنُصْرَتِي مُعَدَّةٌ لَكُمْ
+75 | and my love is sincerely dedicated to you. | وَمَوَدَّتِي خَالِصَةٌ لَكُمْ
+76 | Respond! Respond! | آمِينَ آمِينَ

@@ -1,0 +1,9 @@
+{
+  "width": 1440,
+  "height": 900,
+  "steps": [
+    { "goto": "/namaz" },
+    { "scrollTo": 950, "wait": 600 },
+    { "eval": "JSON.stringify({scrollY: window.scrollY, header: document.querySelector('.site-header').getBoundingClientRect().toJSON(), nav: document.querySelector('.nav-shell').getBoundingClientRect().toJSON(), topline: document.querySelector('.topline').getBoundingClientRect().toJSON(), bodyTop: document.body.getBoundingClientRect().top, rootTop: document.documentElement.getBoundingClientRect().top})", "log": "rects", "shot": "qa-namaz-header" }
+  ]
+}

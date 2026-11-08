@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HUSSAINI emblem">
+  <rect width="64" height="64" rx="12" fill="#080909"/>
+  <rect x="10" y="10" width="44" height="44" fill="none" stroke="#C6A45A" stroke-opacity=".45" stroke-width="1"/>
+  <path d="M32 14 36.2 27.8 50 32l-13.8 4.2L32 50l-4.2-13.8L14 32l13.8-4.2Z" fill="none" stroke="#C6A45A" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M20.7 20.7 32 32l11.3-11.3M43.3 20.7 32 32 20.7 43.3M20.7 20.7 32 32l-11.3 11.3M43.3 43.3 32 32l11.3 11.3" fill="none" stroke="#C6A45A" stroke-opacity=".55" stroke-width="1"/>
+  <circle cx="32" cy="32" r="3.4" fill="#C6A45A"/>
+  <circle cx="32" cy="32" r="6.6" fill="none" stroke="#C6A45A" stroke-opacity=".4" stroke-width="1"/>
+</svg>

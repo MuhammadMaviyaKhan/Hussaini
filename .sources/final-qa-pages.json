@@ -1,0 +1,9 @@
+{
+  "width": 1440,
+  "height": 900,
+  "steps": [
+    { "goto": "/masoomeen/imam-hussain", "wait": 1200, "shot": "final-hussain" },
+    { "goto": "/credits", "wait": 1000, "shot": "final-credits" },
+    { "goto": "/this-does-not-exist", "wait": 700, "shot": "final-404" }
+  ]
+}

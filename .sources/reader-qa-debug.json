@@ -1,0 +1,12 @@
+{
+  "width": 390,
+  "height": 844,
+  "mobile": true,
+  "steps": [
+    { "goto": "/duas/dua-kumayl", "wait": 800 },
+    { "click": ".reader-topbar__actions .reader-icon-button--mode", "wait": 700 },
+    { "eval": "(() => { const el=document.querySelector('.reader-tools--floating'); const r=el.getBoundingClientRect(); const cs=getComputedStyle(el); return { display: cs.display, visibility: cs.visibility, opacity: cs.opacity, zIndex: cs.zIndex, position: cs.position, top: r.top, bottom: r.bottom, left: r.left, right: r.right, width: r.width, height: r.height, vh: innerHeight, vw: innerWidth, scrollY, parent: el.parentElement.className, htmlOverflow: getComputedStyle(document.documentElement).overflow, bodyOverflow: getComputedStyle(document.body).overflowY, transform: cs.transform } })()", "log": "FLOAT", "shot": "reader-debug-reading" },
+    { "scrollTo": 900, "wait": 600 },
+    { "eval": "(() => { const el=document.querySelector('.reader-tools--floating'); const r=el.getBoundingClientRect(); return { top: r.top, bottom: r.bottom, left: r.left, right: r.right, width: r.width, height: r.height, innerHeight, scrollY, elementAtBottomCenter: document.elementFromPoint(innerWidth/2, innerHeight-20)?.className, elementAtBottomLeft: document.elementFromPoint(20, innerHeight-20)?.className } })()", "log": "FLOAT SCROLLED", "shot": "reader-debug-reading-scrolled" }
+  ]
+}

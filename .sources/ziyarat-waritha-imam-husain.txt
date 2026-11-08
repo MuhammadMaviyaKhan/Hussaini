@@ -1,0 +1,59 @@
+0 | Peace be upon you, O inheritor of Adam the choice of Allah. | اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ آدَمَ صَفْوَةِ ٱللَّهِ
+1 | Peace be upon you, O inheritor of Noah the prophet of Allah. | اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ نُوحٍ نَبِيِّ ٱللَّهِ
+2 | Peace be upon you, O inheritor of Abraham the intimate friend of Allah. | اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ إِبْرَاهِيمَ خَلِيلِ ٱللَّهِ
+3 | Peace be upon you, O inheritor of Moses the spoken by Allah. | اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ مُوسَىٰ كَلِيمِ ٱللَّهِ
+4 | Peace be upon you, O inheritor of Jesus the spirit of Allah. | اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ عِيسَىٰ رُوحِ ٱللَّهِ
+5 | Peace be upon you, O inheritor of Muhammad the most beloved by Allah. | اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ مُحَمَّدٍ حَبِيبِ ٱللَّهِ
+6 | Peace be upon you, O inheritor of the Commander of the Faithful, peace be upon him. (the intimate friend of Allah). | اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ أَمِيرِ ٱلْمُؤْمِنِينَ عَلَيْهِ ٱلسَّلاَمُ [وَلِيِّ ٱللَّهِ]
+7 | Peace be upon you, O son of Muhammad the well-chosen Prophet. | اَلسَّلاَمُ عَلَيْكَ يَا بْنَ مُحَمَّدٍ ٱلْمُصْطَفَىٰ
+8 | Peace be upon you, O son of `Ali the well-pleased. | اَلسَّلاَمُ عَلَيْكَ يَا بْنَ عَلِيٍّ ٱلْمُرْتَضَىٰ
+9 | Peace be upon you, O son of Fatimah the luminous lady. | اَلسَّلاَمُ عَلَيْكَ يَا بْنَ فَاطِمَةَ ٱلزَّهْرَاءِ
+10 | Peace be upon you, O son of Khadijah the grand lady. | اَلسَّلاَمُ عَلَيْكَ يَا بْنَ خَدِيـجَةَ ٱلْكُبْرَىٰ
+11 | Peace be upon you, O vengeance of Allah, son of His vengeance, | اَلسَّلاَمُ عَلَيْكَ يَا ثَارَ ٱللَّهِ وَٱبْنَ ثَارِهِ
+12 | and the unavenged so far. | وَٱلْوِتْرَ ٱلْمَوْتُورَ
+13 | I bear witness that you performed the prayers, | أَشْهَدُ أَنَّكَ قَدْ أَقَمْتَ ٱلصَّلاَةَ
+14 | defrayed the poor-rate, | وَآتَيْتَ ٱلزَّكَاةَ
+15 | enjoined the right, | وَأَمَرْتَ بِٱلْمَعْرُوفِ
+16 | forbade the wrong, | وَنَهَيْتَ عَنِ ٱلْمُنْكَرِ
+17 | and obeyed Allah and His Messenger until death came upon you. | وَأَطَعْتَ ٱللَّهَ وَرَسُولَهُ حَتَّىٰ أَتَاكَ ٱلْيَقِينُ
+18 | So, may Allah curse the people who slew you. | فَلَعَنَ ٱللَّهُ أُمَّةً قَتَلَتْكَ
+19 | May Allah curse the people who persecuted you. | وَلَعَنَ ٱللَّهُ أُمَّةً ظَلَمَتْكَ
+20 | May Allah curse the people who were pleased when they had heard of that. | وَلَعَنَ ٱللَّهُ أُمَّةً سَمِعَتْ بِذٰلِكَ فَرَضِيَتْ بِهِ
+21 | O my Master, O Abu-`Abdullah! | يَا مَوْلاَيَ يَا أَبَا عَبْدِ ٱللَّهِ
+22 | I bear witness that you were light in the sublime loins | أَشْهَدُ أَنَّكَ كُنْتَ نُوراً فِي ٱلأَصْلاَبِ ٱلشَّامِخَةِ
+23 | and purified wombs; | وَٱلأَرْحَامِ ٱلْمُطَهَّرَةِ
+24 | the impurities of the Ignorance Era could not object you to filth | لَمْ تُنَجِّسْكَ ٱلْجَاهِلِيَّةُ بِأَنْجَاسِهَا
+25 | nor could it dress you its murky clothes. | وَلَمْ تُلْبِسْكَ مِنْ مُدْلَهِمَّاتِ ثِيَابِهَا
+26 | I also bear witness that you are one of the mainstays of the religion | وَأَشْهَدُ أَنَّكَ مِنْ دَعَائِمِ ٱلدِّينِ
+27 | and the supports of the faithful believers. | وَأَرْكَانِ ٱلْمُؤْمِنِينَ
+28 | I also bear witness that you are the God-fearing, pious, | وَأَشْهَدُ أَنَّكَ ٱلإِمَامُ ٱلْبَرُّ ٱلتَّقِيُّ
+29 | pleased, immaculate, | ٱلرَّضِيُّ ٱلزَّكِيُّ
+30 | guide, and well-guided Imam. | ٱلْهَادِي ٱلْمَهْدِيُّ
+31 | And (I bear witness) that the Imams from your progeny are the spokesmen of piety, | وَأَشْهَدُ أَنَّ ٱلأَئِمَّةَ مِنْ وُلْدِكَ كَلِمَةُ ٱلتَّقْوَىٰ
+32 | the signs of guidance, | وَأَعْلاَمُ ٱلْهُدَىٰ
+33 | the firmest handle (of Islam), | وَٱلْعُروَةُ ٱلْوُثْقَىٰ
+34 | and the decisive Argument against the inhabitants of the world. | وَٱلْحُجَّةُ عَلَىٰ أَهْلِ ٱلدُّنْيَا
+35 | And I call Allah, His angels, | وَأُشْهِدُ ٱللَّهَ وَمَلاَئِكَتَهُ
+36 | His Prophets, and His Messenger | وَأَنْبِيَاءَهُ وَرُسُلَهُ
+37 | to witness for me that I believe in you all and in your Return, | أَنِّي بِكُمْ مُؤْمِنٌ وَبِإِيَابِكُمْ
+38 | I have full confidence in the laws of my religion and in the seals of my deeds, | مُوقِنٌ بِشَرَائِعِ دِينِي وَخَوَاتِيمِ عَمَلي
+39 | my heart is at peace with you all, | وَقَلْبِي لِقَلْبِكُمْ سِلْمٌ
+40 | and all my affairs are based on your commands. | وَأَمْرِي لأَمْرِكُمْ مُتَّبِعٌ
+41 | May Allah’s benedictions be on your souls, | صَلَوَاتُ اللَّهِ عَلَيْكُمْ وَعَلَىٰ أَرْوَاحِكُمْ
+42 | your bodies, your forms, | وَعَلَىٰ أَجْسَادِكُمْ وَعَلَىٰ أَجْسَامِكُمْ
+43 | the present and the absent from you, | وَعَلَىٰ شَاهِدِكُمْ وَعَلَىٰ غَائِبِكُمْ
+44 | and the apparent and the invisible from you. | وَعَلَىٰ ظَاهِرِكُمْ وَعَلَىٰ بَاطِنِكُمْ
+45 | My father and mother be sacrificed for you, O son of the Messenger of Allah! | بِأَبِي أَنْتَ وَأُمِّي يَا بْنَ رَسُولِ ٱللَّهِ
+46 | My father and mother be sacrificed for you, O Abu `Abdullah! | بِأَبِي أَنْتَ وَأُمِّي يَا أَبَا عَبْدِ ٱللَّهِ
+47 | Extremely terrible was the calamity | لَقَدْ عَظُمَتِ ٱلرَّزِيَّةُ
+48 | and astounding is the misfortune that you suffered upon us | وَجَلَّتِ ٱلْمُصيبَةُ بِكَ عَلَيْنَا
+49 | and upon all the inhabitants of the heavens and the earth. | وَعَلَىٰ جَمِيعِ أَهْلِ ٱلسَّمَاوَاتِ وَٱلأَرْضِ
+50 | Therefore, Allah may curse the people who saddled up, gave rein to their horses, | فَلَعَنَ ٱللَّهُ أُمَّةً أَسْرَجَتْ وَأَلْجَمَتْ
+51 | and prepared themselves to kill you. | وَتَهَيَّأَتْ لِقِتَالِكَ
+52 | O my Master, O Abu `Abdullah! | يَا مَوْلاَيَ يَا أَبَا عَبْدِ ٱللَّهِ
+53 | I moved towards your sanctuary | قَصَدْتُ حَرَمَكَ
+54 | and came to your shrine | وَأَتَيْتُ إِلَىٰ مَشْهَدِكَ
+55 | beseeching Allah in the name of the standing that you enjoy with Him | أَسْأَلُ ٱللَّهَ بِٱلشَّأْنِ ٱلَّذِي لَكَ عِنْدَهُ
+56 | and the position that you occupy with Him | وَبِٱلْمَحَلِّ ٱلَّذِي لَكَ لَدَيْهِ
+57 | to send blessings on Muhammad and on the Household of Muhammad | أَنْ يُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ
+58 | and to keep me with you in this world and in the Hereafter. | وَأَنْ يَجْعَلَنِي مَعَكُمْ فِي ٱلدُّنْيَا وَٱلآخِرَةِ

@@ -1,0 +1,26 @@
+{
+  "width": 1440,
+  "height": 900,
+  "steps": [
+    { "goto": "/duas/dua-kumayl", "wait": 900 },
+    { "eval": "({ title: document.title, h1: document.querySelector('.reader-hero h1')?.textContent, passages: document.querySelectorAll('.reader-passage').length, arabic: document.querySelectorAll('.reader-lang--arabic').length, overflow: document.documentElement.scrollWidth - document.documentElement.clientWidth, topbarTop: document.querySelector('.reader-topbar')?.getBoundingClientRect().top })", "log": "INITIAL", "shot": "reader-d-top" },
+    { "scrollTo": 700, "wait": 800, "shot": "reader-d-tools" },
+    { "click": ".reader-tools--inline .reader-chip:nth-child(1)", "wait": 500 },
+    { "eval": "({ arabic: document.querySelectorAll('.reader-lang--arabic').length, active: [...document.querySelectorAll('.reader-tools--inline .reader-chip')].map(b => b.getAttribute('aria-pressed')), stored: JSON.parse(localStorage.getItem('hussaini:reader-languages')) })", "log": "ARABIC OFF", "shot": "reader-d-arabic-off" },
+    { "click": ".reader-tools--inline .reader-chip:nth-child(1)", "wait": 400 },
+    { "click": ".reader-tools--inline .reader-tools__group--type button:last-child", "wait": 400 },
+    { "eval": "({ stored: localStorage.getItem('hussaini:arabic-size'), size: getComputedStyle(document.querySelector('.reader-lang--arabic p')).fontSize, input: document.querySelector('.reader-tools--inline input[type=range]').value })", "log": "FONT PLUS" },
+    { "click": ".reader-topbar__actions .reader-icon-button:first-child", "wait": 500 },
+    { "eval": "({ pressed: document.querySelector('.reader-topbar__actions .reader-icon-button:first-child').getAttribute('aria-pressed'), savedStore: localStorage.getItem('hussaini:bookmarks'), toast: document.querySelector('.reader-toast')?.textContent.trim() })", "log": "BOOKMARK", "shot": "reader-d-bookmark" },
+    { "click": ".reader-tools--inline .reader-tools__mode", "wait": 700 },
+    { "eval": "({ bodyClass: document.body.className, pageClass: document.querySelector('.reader-page').className, header: getComputedStyle(document.querySelector('.site-header')).display, hero: getComputedStyle(document.querySelector('.reader-hero')).display, aside: getComputedStyle(document.querySelector('.reader-aside')).display, inline: getComputedStyle(document.querySelector('.reader-tools--inline')).display, floating: getComputedStyle(document.querySelector('.reader-tools--floating')).display, topbarTop: document.querySelector('.reader-topbar').getBoundingClientRect().top, overflow: document.documentElement.scrollWidth - document.documentElement.clientWidth })", "log": "READING MODE", "shot": "reader-d-reading" },
+    { "scrollTo": 1000, "wait": 500, "shot": "reader-d-reading-scrolled" },
+    { "eval": "(() => { const b=[...document.querySelectorAll('.reader-tools--floating .reader-chip')]; b[2]?.click(); return b.length; })()", "wait": 400 },
+    { "eval": "({ english: document.querySelectorAll('.reader-lang--english').length, stored: JSON.parse(localStorage.getItem('hussaini:reader-languages')) })", "log": "ENGLISH OFF IN READING" },
+    { "eval": "(() => { const b=[...document.querySelectorAll('.reader-tools--floating .reader-chip')]; b[2]?.click(); document.querySelector('.reader-tools--floating .reader-tools__mode')?.click(); return true })()", "wait": 600 },
+    { "eval": "({ bodyClass: document.body.className, header: getComputedStyle(document.querySelector('.site-header')).display, floating: getComputedStyle(document.querySelector('.reader-tools--floating')).display })", "log": "EXIT READING", "shot": "reader-d-after-reading" },
+    { "click": ".reader-toc button:nth-of-type(3)", "wait": 1000 },
+    { "eval": "({ scrollY: window.scrollY, target: document.querySelector('#passage-2')?.getBoundingClientRect().top, topbar: document.querySelector('.reader-topbar')?.getBoundingClientRect().bottom, inline: document.querySelector('.reader-tools--inline')?.getBoundingClientRect().bottom })", "log": "TOC NAV", "shot": "reader-d-toc-nav" },
+    { "scrollFraction": 0.98, "wait": 700, "shot": "reader-d-end" }
+  ]
+}

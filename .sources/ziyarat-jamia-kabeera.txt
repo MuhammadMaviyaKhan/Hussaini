@@ -1,0 +1,412 @@
+0 | Peace be upon you, O Household of Prophethood, | اَلسَّلاَمُ عَلَيْكُمْ يَا أَهْلَ بَيْتِ ٱلنُّبُوَّةِ
+1 | location of the Divine mission, | وَمَوْضِعَ ٱلرِّسَالَةِ
+2 | frequently visited by the angels, | وَمُخْتَلَفَ ٱلْمَلاَئِكَةِ
+3 | destination of the Divine revelation, | وَمَهْبِطَ ٱلْوَحْيِ
+4 | core of mercy, | وَمَعْدِنَ ٱلرَّحْمَةِ
+5 | hoarders of knowledge, | وَخُزَّانَ ٱلْعِلْمِ
+6 | ultimate degree of forbearance, | وَمُنْتَهَىٰ ٱلْحِلْمِ
+7 | origins of generosity, | وَأُصُولَ ٱلْكَرَمِ
+8 | leaders of all nations, | وَقَادَةَ ٱلْأُمَمِ
+9 | sustainers of bounties, | وَأَوْلِيَاءَ ٱلنِّعَمِ
+10 | foundations of the dutiful, | وَعَنَاصِرَ ٱلْأَبْرَارِ
+11 | pillars of the upright, | وَدَعَائِمَ ٱلْأَخْيَارِ
+12 | maintainers of the servants (of Allah), | وَسَاسَةَ ٱلْعِبَادِ
+13 | props of the lands, | وَأَرْكَانَ ٱلْبِلاَدِ
+14 | doors to true faith, | وَأَبْوَابَ ٱلْإِيـمَانِ
+15 | trustees of the All-beneficent (Allah), | وَأُمَنَاءَ ٱلرَّحْمٰنِ
+16 | descendants of the Prophets, | وَسُلاَلَةَ ٱلنَّبِيِّينَ
+17 | choice of the Messengers, | وَصَفْوَةَ ٱلْمُرْسَلِينَ
+18 | and offspring of the select of the Lord of the worlds. | وَعِتْرَةَ خِيَرَةِ رَبِّ ٱلْعَالَمِينَ
+19 | Allah’s mercy and blessings, too, be upon you (all). | وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ
+20 | Peace be upon the directors of right guidance, | اَلسَّلاَمُ عَلَىٰ أَئِمَّةِ ٱلْهُدَىٰ
+21 | the lanterns in darkness, | وَمَصَابِيحِ ٱلدُّجَىٰ
+22 | the patterns of piety, | وَأَعْلاَمِ ٱلتُّقَىٰ
+23 | the owners of understanding, | وَذَوِي ٱلنُّهَىٰ
+24 | the endued with thought, | وَأُوْلِي ٱلْحِجَىٰ
+25 | the havens for the peoples, | وَكَهْفِ ٱلْوَرَىٰ
+26 | the inheritors of the Prophets, | وَوَرَثَةِ ٱلْأَنْبِيَاءِ
+27 | the perfect specimen, | وَٱلْمَثَلِ ٱلْأَعْلَىٰ
+28 | the most excellent call, | وَٱلدَّعْوَةِ ٱلْحُسْنَىٰ
+29 | and the arguments of Allah against the inhabitants of the world, | وَحُجَجِ ٱللَّهِ عَلَىٰ أَهْلِ ٱلدُّنْيَا
+30 | the Hereafter, and the former world. | وَٱلْآخِرَةِ وَٱلْأُولَىٰ
+31 | Allah’s mercy and blessings, too, be upon you (all). | وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ
+32 | Peace be upon the exponents of the recognition of Allah, | اَلسَّلاَمُ عَلَىٰ مَحَالِّ مَعْرِفَةِ ٱللَّهِ
+33 | the centers of Allah’s blessing, | وَمَسَاكِنِ بَرَكَةِ ٱللَّهِ
+34 | the essence of Allah’s wisdom, | وَمَعَادِنِ حِكْمَةِ ٱللَّهِ
+35 | the keepers of Allah’s secrets, | وَحَفَظَةِ سِرِّ ٱللَّهِ
+36 | the bearers of Allah’s Book, | وَحَمَلَةِ كِتَابِ ٱللَّهِ
+37 | the successors of Allah’s Prophet, | وَأَوْصِيَاءِ نَبِيِّ ٱللَّهِ
+38 | and the progeny of Allah’s Messenger, | وَذُرِّيَّةِ رَسُولِ ٱللَّهِ
+39 | may Allah send blessings upon him and his Household. | صَلَّىٰ ٱللَّهُ عَلَيْهِ وَآلِهِ
+40 | Allah’s mercy and blessings, too, be upon them. | وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ
+41 | Peace be upon the callers to Allah, | اَلسَّلاَمُ عَلَىٰ ٱلدُّعَاةِ إِلَىٰ ٱللَّهِ
+42 | the leaders to Allah’s pleasure, | وَٱلْأَدِلاَّءِ عَلَىٰ مَرْضَاتِ ٱللَّهِ
+43 | the abiders by Allah’s decree, | وَٱلْمُسْتَقِرِّينَ فِي أَمْرِ ٱللَّهِ
+44 | the perfect in love for Allah, | وَٱلتَّامِّينَ فِي مَحَبَّةِ ٱللَّهِ
+45 | the sincere in professing Allah’s Oneness, | وَٱلْمُخْلِصِينَ فِي تَوْحِيدِ ٱللَّهِ
+46 | the manifesters of Allah’s orders and prohibitions, | وَٱلْمُظْهِرِينَ لِأَمْرِ ٱللَّهِ وَنَهْيِهِ
+47 | and Allah’s honored bondmen | وَعِبَادِهِ ٱلْمُكْرَمِينَ
+48 | who speak not until He has spoken | ٱلَّذِينَ لَا يَسْبِقُونَهُ بِٱلْقَوْلِ
+49 | and act by His command. | وَهُمْ بِأَمْرِهِ يَعْمَلُونَ
+50 | Allah’s mercy and blessings, too, be upon them. | وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ
+51 | Peace be upon the Imams, the heralds, | اَلسَّلاَمُ عَلَىٰ ٱلْأَئِمَّةِ ٱلدُّعَاةِ
+52 | the leaders, the guides, | وَٱلْقَادَةِ ٱلْهُدَاةِ
+53 | the chiefs, the authorities, | وَٱلسَّادَةِ ٱلْوُلاَةِ
+54 | the defenders, the protectors, | وَٱلذَّادَةِ ٱلْحُمَاةِ
+55 | the people of the Reminder (i.e. the Qur'an), | وَأَهْلِ ٱلذِّكْرِ
+56 | the men in authority, | وَأُوْلِي ٱلْأَمْرِ
+57 | the left ones by Allah, His select, | وَبَقِيَّةِ ٱللَّهِ وَخِيَرَتِهِ
+58 | His party, the case of His knowledge | وَحِزْبِهِ وَعَيْبَةِ عِلْمِهِ
+59 | His argument, His path, | وَحُجَّتِهِ وَصِرَاطِهِ
+60 | His light, and His proof. | وَنُورِهِ وَبُرْهَانِهِ
+61 | Allah’s mercy and blessings, too, be upon them. | وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ
+62 | I bear witness that there is no god save Allah; | أَشْهَدُ أَنْ لَا إِلٰهَ إِلاَّ ٱللَّهُ
+63 | One and Only and having no partner with Him | وَحْدَهُ لَا شَرِيكَ لَهُ
+64 | just as Allah has testified to His Oneness | كَمَا شَهِدَ ٱللَّهُ لِنَفْسِهِ
+65 | to which His angels | وَشَهِدَتْ لَهُ مَلاَئِكَتُهُ
+66 | and his knowledgeable creatures testify. | وَأُوْلُو ٱلْعِلْمِ مِنْ خَلْقِهِ
+67 | There is no god save Him; the Almighty, the All-wise. | لَا إِلٰهَ إِلاَّ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+68 | I also bear witness that Muhammad is His elect servant | وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ ٱلْمُنْتَجَبُ
+69 | and His approved Messenger. | وَرَسُولُهُ ٱلْمُرْتَضَىٰ
+70 | He sent him with right guidance and with the Religion of truth | أَرْسَلَهُ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ
+71 | that He may cause it to prevail over all religions | لِيُظْهِرَهُ عَلَىٰ ٱلدِّينِ كُلِّهِ
+72 | however much the idol-worshippers may be averse. | وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ
+73 | I also bear witness that you all are the Imams, rightly guiding, | وَأَشْهَدُ أَنَّكُمُ ٱلْأَئِمَّةُ ٱلرَّاشِدُونَ
+74 | well-guided, infallible, | ٱلْمَهْدِيُّونَ ٱلْمَعْصُومُونَ
+75 | highly revered, drawn near (to Allah), | ٱلْمُكَرَّمُونَ ٱلْمُقَرَّبُونَ
+76 | pious, veracious, | ٱلْمُتَّقُونَ ٱلصَّادِقُونَ
+77 | well-chosen, obedient to Allah, | ٱلْمُصْطَفَوْنَ ٱلْمُطيعُونَ لِلَّهِ
+78 | establishing His rule, | ٱلْقَوَّامُونَ بِأَمْرِهِ
+79 | putting into practice His will, | ٱلْعَامِلُونَ بِإِرَادَتِهِ
+80 | and winning His honoring. | ٱلْفَائِزُونَ بِكَرَامَتِهِ
+81 | He chose you on account of His (eternal) knowledge, | إِصْطَفَاكُمْ بِعِلْمِهِ
+82 | approved of you to maintain His unseen knowledge, | وَٱرْتَضَاكُمْ لِغَيْبِهِ
+83 | selected you to keep His secret, | وَٱخْتَارَكُمْ لِسِرِّهِ
+84 | decided on you by means of His omnipotence, | وَٱجْتَبَاكُمْ بِقُدْرَتِهِ
+85 | equipped you with His guidance, | وَأَعَزَّكُمْ بِهُدَاهُ
+86 | distinguished you with His clear proofs, | وَخَصَّكُمْ بِبُرْهَانِهِ
+87 | chose you to hold His Light, | وَٱنْتَجَبَكُمْ لِنُورِهِ
+88 | supported you with His Holy spirit, | وَأَيَّدَكُمْ بِرُوحِهِ
+89 | and accepted you as vicegerents in His lands, | وَرَضِيَكُمْ خُلَفَاءَ فِي أَرْضِهِ
+90 | arguments against His beings, | وَحُجَجاً عَلَىٰ بَرِيَّتِهِ
+91 | supporters of His religion, | وَأَنْصَاراً لِدِينِهِ
+92 | keepers of His secret, | وَحَفَظَةً لِسِرِّهِ
+93 | hoarders of His knowledge, | وَخَزَنَةً لِعِلْمِهِ
+94 | stores of His wisdom, | وَمُسْتَوْدَعاً لِحِكْمَتِهِ
+95 | interpreters of His revelation, | وَتَرَاجِمَةً لِوَحْيِهِ
+96 | pillars of the profession of His Oneness, | وَأَرْكَاناً لِتَوْحِيدِهِ
+97 | witnesses on His creatures, | وَشُهَدَاءَ عَلَىٰ خَلْقِهِ
+98 | signs for His servants, | وَأَعْلاَماً لِعِبَادِهِ
+99 | torches in His lands, | وَمَنَاراً فِي بِلاَدِهِ
+100 | and directors to His path. | وَأَدِلاَّءَ عَلَىٰ صِرَاطِهِ
+101 | Allah has preserved you against slips, | عَصَمَكُمُ ٱللَّهُ مِنَ ٱلزَّلَلِ
+102 | secured you against seditious matters, | وَآمَنَكُمْ مِنَ ٱلْفِتَنِ
+103 | purified you from dirt, | وَطَهَّرَكُمْ مِنَ ٱلدَّنَسِ
+104 | removed away from you uncleanness, | وَأَذْهَبَ عَنْكُمُ ٱلرِّجْسَ
+105 | and purified you with a thorough purifying. | وَطَهَّرَكُمْ تَطْهِيراً
+106 | So, you have glorified His majesty, | فَعَظَّمْتُمْ جَلاَلَهُ
+107 | declared great His magnificence, | وَأَكْبَرْتُمْ شَأْنَهُ
+108 | glorified His nobility, | وَمَجَّدْتُمْ كَرَمَهُ
+109 | perpetuated mentioning Him, | وَأَدَمْتُمْ ذِكْرَهُ
+110 | consolidated His covenant, | وَوَكَّدْتُمْ مِيثَاقَهُ
+111 | made firm your pledge of obedience to Him, | وَأَحْكَمْتُمْ عَقْدَ طَاعَتِهِ
+112 | acted sincerely to Him privately and publicly, | وَنَصَحْتُمْ لَهُ فِي ٱلسِّرِّ وَٱلْعَلاَنِيَةِ
+113 | called unto His way | وَدَعَوْتُمْ إِلَىٰ سَبِيلِهِ
+114 | with wisdom and fair admonition, | بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ
+115 | sacrificed yourselves for the sake of attaining His pleasure, | وَبَذَلْتُمْ أَنْفُسَكُمْ فِي مَرْضَاتِهِ
+116 | acted patiently towards what has befallen you for His sake, | وَصَبَرْتُمْ عَلَىٰ مَا أَصَابَكُمْ فِي جَنْبِهِ
+117 | performed the prayers, | وَأَقَمْتُمُ ٱلصَّلاَةَ
+118 | defrayed the poor-rate, | وَآتَيْتُمُ ٱلزَّكَاةَ
+119 | enjoined the right, | وَأَمَرْتُمْ بِٱلْمَعْرُوفِ
+120 | forbade the wrong, | وَنَهَيْتُمْ عَنِ ٱلْمُنْكَرِ
+121 | and strived in the way of Allah as exactly as striving should be | وَجَاهَدْتُمْ فِي ٱللَّهِ حَقَّ جِهَادِهِ
+122 | until you made known His call, | حَتَّىٰ أَعْلَنْتُمْ دَعْوَتَهُ
+123 | rendered clear His obligations, | وَبَيَّنْتُمْ فَرَائِضَهُ
+124 | executed His provisions, | وَأَقَمْتُمْ حُدُودَهُ
+125 | propagated for the enacted laws of Him, | وَنَشَرْتُمْ شَرَائِعَ أَحْكَامِهِ
+126 | acted out His rules, | وَسَنَنْتُمْ سُنَّتَهُ
+127 | attained His pleasure through carrying out all these matters, | وَصِرْتُمْ فِي ذٰلِكَ مِنْهُ إِلَىٰ ٱلرِّضَا
+128 | surrendered to His will, | وَسَلَّمْتُمْ لَهُ ٱلْقَضَاءَ
+129 | and confirmed the truth of the past Messengers of Him. | وَصَدَّقْتُمْ مِنْ رُسُلِهِ مَنْ مَضَىٰ
+130 | Therefore, whoever forsakes you is apostate, | فَٱلرَّاغِبُ عَنْكُمْ مَارِقٌ
+131 | whoever adheres to you will attain the destination, | وَٱللاَّزِمُ لَكُمْ لاَحِقٌ
+132 | and whoever fails to carry out the duties towards you will perish. | وَٱلْمُقَصِّرُ فِي حَقِّكُمْ زَاهِقٌ
+133 | Verily, the truth is always with you, amid you, | وَٱلْحَقُّ مَعَكُمْ وَفيكُمْ
+134 | from you, and to you. | وَمِنْكُمْ وَإِلَيْكُمْ
+135 | You are the people and the core of it (i.e. the truth). | وَأَنْتُمْ أَهْلُهُ وَمَعْدِنُهُ
+136 | The inheritance of Prophethood is with you. | وَمِيرَاثُ ٱلنُّبُوَّةِ عِنْدَكُمْ
+137 | The ultimate destination of the creatures is to you. | وَإِيَابُ ٱلْخَلْقِ إِلَيْكُمْ
+138 | Calling them to account is your mission. | وَحِسَابُهُمْ عَلَيْكُمْ
+139 | Decisive speech is with you. | وَفَصْلُ ٱلْخِطَابِ عِنْدَكُمْ
+140 | The verses of Allah is in your possession. | وَآيَاتُ ٱللَّهِ لَدَيْكُمْ
+141 | His unavoidable decrees rely upon you. | وَعَزَائِمُهُ فِيكُمْ
+142 | His light and proof are with you. | وَنُورُهُ وَبُرْهَانُهُ عِنْدَكُمْ
+143 | His authority is to you. | وَأَمْرُهُ إِلَيْكُمْ
+144 | Whoever declares loyalty to you has in fact declared loyalty to Allah, | مَنْ وَالاَكُمْ فَقَدْ وَالَىٰ ٱللَّهَ
+145 | whoever shows enmity towards you has in fact shown enmity towards Allah, | وَمَنْ عَادَاكُمْ فَقَدْ عَادَىٰ ٱللَّهَ
+146 | whoever loves you has in fact loved Allah, | وَمَنْ أَحَبَّكُمْ فَقَدْ أَحَبَّ ٱللَّهَ
+147 | whoever hates you has in fact hated Allah, | وَمَنْ أَبْغَضَكُمْ فَقَدْ أَبْغَضَ ٱللَّهَ
+148 | and whoever holds fast to you has in fact held fast to Allah. | وَمَنِ ٱعْتَصَمَ بِكُمْ فَقَدِ ٱعْتَصَمَ بِٱللَّهِ
+149 | You are the most straight path,( ) | أَنْتُمُ ٱلصِّرَاطُ ٱلْأَقْوَمُ
+150 | the witnesses of this abode of extinction, | وَشُهَدَاءُ دَارِ ٱلْفَنَاءِ
+151 | the intercessors in the abode of permanence, | وَشُفَعَاءُ دَارِ ٱلْبَقَاءِ
+152 | the connected mercy, | وَٱلرَّحْمَةُ ٱلْمَوْصُولَةُ
+153 | the stored sign, | وَٱلآيَةُ ٱلْمَخْزُونَةُ
+154 | the safeguarded deposit, | وَٱلْأَمَانَةُ ٱلْمَحْفُوظَةُ
+155 | and the door with which people are put to test. | وَٱلْبَابُ ٱلْمُبْتَلَىٰ بِهِ ٱلنَّاسُ
+156 | Whoever comes to will have been saved | مَنْ أَتَاكُمْ نَجَا
+157 | but whoever refrains from joining you will have perished. | وَمَنْ لَمْ يَأْتِكُمْ هَلَكَ
+158 | To Allah do you invite people, | إِلَىٰ ٱللَّهِ تَدْعُونَ
+159 | towards him do you show the way, | وَعَلَيْهِ تَدُلُّونَ
+160 | in Him do you believe, | وَبِهِ تُؤْمِنُونَ
+161 | to Him do you submit, | وَلَهُ تُسَلِّمُونَ
+162 | upon His command do you act, | وَبِأَمْرِهِ تَعْمَلُونَ
+163 | to His path do you direct, | وَإِلَىٰ سَبِيلِهِ تُرْشِدُونَ
+164 | and according to His saying do you judge. | وَبِقَوْلِهِ تَحْكُمُونَ
+165 | Happy is he who is loyal to you, | سَعَدَ مَنْ وَالاَكُمْ
+166 | desolate is he who forsakes you, | وَهَلَكَ مَنْ عَادَاكُمْ
+167 | disappointed is he who denies you, | وَخَابَ مَنْ جَحَدَكُمْ
+168 | straying off is he who separates himself from you, | وَضَلَّ مَنْ فَارَقَكُمْ
+169 | winner is he who adheres to you, | وَفَازَ مَنْ تَمَسَّكَ بِكُمْ
+170 | secured is he who resorts to you, | وَأَمِنَ مَنْ لَجَأَ إِلَيْكُمْ
+171 | saved is he who gives credence to you, | وَسَلِمَ مَنْ صَدَّقَكُمْ
+172 | and rightly guided is he who takes shelter in you. | وَهُدِيَ مَنِ ٱعْتَصَمَ بِكُمْ
+173 | As to whoever follows you, Paradise will be his abode. | مَنِ ٱتَّبَعَكُمْ فَٱلْجَنَّةُ مَأْوَاهُ
+174 | As to whoever dissents you, Hellfire will be his dwelling. | وَمَنْ خَالَفَكُمْ فَٱلنَّارُ مَثْوَاهُ
+175 | He who denies you is unbeliever, | وَمَنْ جَحَدَكُمْ كَافِرٌ
+176 | he who makes war against you is polytheist, | وَمَنْ حَارَبَكُمْ مُشْرِكٌ
+177 | and he who objects to you will be in the lowest tier of the burning fire. | وَمَنْ رَدَّ عَلَيْكُمْ فِي أَسْفَلِ دَرْكٍ مِنَ ٱلْجَحِيمِ
+178 | I bear witness that all the previous was pre-decided for you | أَشْهَدُ أَنَّ هٰذَا سَابِقٌ لَكُمْ فِيمَا مَضَىٰ
+179 | and it will continue in the future; | وَجَارٍ لَكُمْ فِيمَا بَقِيَ
+180 | and that your souls, your light, | وَأَنَّ أَرْوَاحَكُمْ وَنُورَكُمْ
+181 | and your form are the same; | وَطينَتَكُمْ وَاحِدَةٌ
+182 | blessed and purified, | طَابَتْ وَطَهُرَتْ
+183 | and one of the other. | بَعْضُهَا مِنْ بَعْضٍ
+184 | Allah created you as lights; | خَلَقَكُمُ ٱللَّهُ أَنْوَاراً
+185 | He then made you observe from His Throne | فَجَعَلَكُمْ بِعَرْشِهِ مُحْدِقِينَ
+186 | until He endued us with the favor of your existence (among us) | حَتَّىٰ مَنَّ عَلَيْنَا بِكُمْ
+187 | and then placed you in houses | فَجَعَلَكُمْ فِي بُيُوتٍ
+188 | that He allowed to be raised | أَذِنَ ٱللَّهُ أَنْ تُرْفَعَ
+189 | and to have His Name mentioned therein. | وَيُذْكَرَ فِيهَا ٱسْمُهُ
+190 | He also decided our invocation of blessings upon you | وَجَعَلَ صَلَوَاتِنَا عَلَيْكُمْ
+191 | and our loyalty to you | وَمَا خَصَّنَا بِهِ مِنْ وِلاَيَتِكُمْ
+192 | to be immaculacy of our creation, | طِيباً لِخَلْقِنَا
+193 | purity of our souls, | وَطَهَارَةً لأَنْفُسِنَا
+194 | refinement of our manners, | وَتَزْكِيَةً لَنَا
+195 | and forgiveness of our sins. | وَكَفَّارَةً لِذُنُوبِنَا
+196 | We have thus become, with Him, of those believing in your precedence | فَكُنَّا عِنْدَهُ مُسَلِّمِينَ بِفَضْلِكُمْ
+197 | and of those known for their giving credence to you. | وَمَعْرُوفِينَ بِتَصْدِيقِنَا إِيَّاكُمْ
+198 | Thus, Allah has raised you to the most principled place of the honored ones, | فَبَلَغَ ٱللَّهُ بِكُمْ أَشْرَفَ مَحَلِّ ٱلْمُكَرَّمِينَ
+199 | the highest station of those drawn near to Him, | وَأَعْلَىٰ مَنَازِلِ ٱلْمُقَرَّبِينَ
+200 | and the loftiest ranks of the Messengers | وَأَرْفَعَ دَرَجَاتِ ٱلْمُرْسَلِينَ
+201 | where none can ever reach you, | حَيْثُ لَا يَلْحَقُهُ لاَحِقٌ
+202 | nor can anyone ever surpass you, | وَلاَ يَفُوقُهُ فَائِقٌ
+203 | nor can anyone ever precede you, | وَلاَ يَسْبِقُهُ سَابِقٌ
+204 | no can anyone ever look forward to reaching your positions; | وَلاَ يَطْمَعُ فِي إِدْرَاكِهِ طَامِعٌ
+205 | therefore, no archangel, | حَتَّىٰ لَا يَبْقَىٰ مَلَكٌ مُقَرَّبٌ
+206 | commissioned Prophet, | وَلاَ نَبِيٌّ مُرْسَلٌ
+207 | a veracious one, a martyr, | وَلاَ صِدِّيقٌ وَلاَ شَهِيدٌ
+208 | a knowledgeable one, an ignorant one, | وَلاَ عَالِمٌ وَلاَ جَاهِلٌ
+209 | an inferior, a superior, | وَلاَ دَنِيٌّ وَلاَ فَاضِلٌ
+210 | a righteous believer, | وَلاَ مُؤْمِنٌ صَالِحٌ
+211 | a wicked sinner, | وَلاَ فَاجِرٌ طَالِحٌ
+212 | an obstinate tyrant, | وَلاَ جَبَّارٌ عَنِيدٌ
+213 | a devilish rebel, | وَلاَ شَيْطَانٌ مَرِيدٌ
+214 | or any other witnessing being among these classes—all of those | وَلاَ خَلْقٌ فِيمَا بَيْنَ ذٰلِكَ شَهِيدٌ
+215 | were informed by Allah about the majesty of your issue, | إِلاَّ عَرَّفَهُمْ جَلاَلَةَ أَمْرِكُمْ
+216 | the importance of your standing, | وَعِظَمَ خَطَرِكُمْ
+217 | the greatness of your prestige, | وَكِبَرَ شَأْنِكُمْ
+218 | the thoroughness of your illumination, | وَتَمَامَ نُورِكُمْ
+219 | the honesty of your position, | وَصِدْقَ مَقَاعِدِكُمْ
+220 | the firmness of your stance, | وَثَبَاتَ مَقَامِكُمْ
+221 | the honor of your station and position with Him, | وَشَرَفَ مَحَلِّكُمْ وَمَنْزِلَتِكُمْ عِنْدَهُ
+222 | your upstanding reputation with Him, | وَكَرَامَتَكُمْ عَلَيْهِ
+223 | your special position with Him, | وَخَاصَّتَكُمْ لَدَيْهِ
+224 | and your close location to Him. | وَقُرْبَ مَنْزِلَتِكُمْ مِنْهُ
+225 | May my father, my mother, | بِأَبِي أَنْتُمْ وَأُمَّي
+226 | my kin, my property, and my family be ransoms for you. | وَأَهْلِي وَمَالِي وَأُسْرَتِي
+227 | I beseech Allah and I beseech you all to witness for me | أُشْهِدُ ٱللَّهَ وَأُشْهِدُكُمْ
+228 | that I believe in you all and in that in which you believe, | أَنِّي مُؤْمِنٌ بِكُمْ وَبِمَا آمَنْتُمْ بِهِ
+229 | I renounce your enemies and whatever you renounce, | كَافِرٌ بَعَدُوِّكُمْ وَبِمَا كَفَرْتُمْ بِهِ
+230 | I am fully aware of your matter | مُسْتَبْصِرٌ بِشَأْنِكُمْ
+231 | and of the deviation of those who oppose you, | وَبِضَلاَلَةِ مَنْ خَالَفَكُمْ
+232 | I am loyalist to you and to your loyalists, | مُوَالٍ لَكُمْ وَلأَوْلِيَائِكُمْ
+233 | I hate your enemies and I show enmity towards them, | مُبْغِضٌ لأَعْدَائِكُمْ وَمُعَادٍ لَهُمْ
+234 | I am at peace with those who make peace with you, | سِلْمٌ لِمَنْ سَالَمَكُمْ
+235 | I take the field against those who march against you, | وَحَرْبٌ لِمَنْ حَارَبَكُمْ
+236 | I accept as true that which you have decided as true, | مُحَقِّقٌ لِمَا حَقَّقْتُمْ
+237 | I prove false that which you have decided as false, | مُبْطِلٌ لِمَا أَبْطَلْتُمْ
+238 | I am obedient to you, | مُطِيعٌ لَكُمْ
+239 | I recognize your right, | عَارِفٌ بِحَقِّكُمْ
+240 | I confess of your superiority, | مُقِرٌّ بِفَضْلِكُمْ
+241 | I preserve your knowledge, | مُحْتَمِلٌ لِعِلْمِكُمْ
+242 | I take refuge under your protective shelter, | مُحْتَجِبٌ بِذِمَّتِكُمْ
+243 | I profess you, | مُعْتَرِفٌ بِكُمْ
+244 | I believe in your coming back (to this world), | مُؤْمِنٌ بِإِيَابِكُمْ
+245 | I give credence to your return, | مُصَدِّقٌ بِرَجْعَتِكُمْ
+246 | I am awaiting your issue, | مُنْتَظِرٌ لأَمْرِكُمْ
+247 | I am expecting your rule, | مُرْتَقِبٌ لِدَوْلَتِكُمْ
+248 | I take in your sayings, | آخِذٌ بِقَوْلِكُمْ
+249 | I carry out your orders, | عَامِلٌ بِأَمْرِكُمْ
+250 | I take shelter in you, | مُسْتَجِيرٌ بِكُمْ
+251 | I make visits to you | زَائِرٌ لَكُمْ
+252 | I resort to and seek protection in your graves, | لاَئِذٌ عَائِذٌ بِقُبُورِكُمْ
+253 | I seek your intercession for me with Allah the Almighty and All-majestic, | مُسْتَشْفِعٌ إِلَىٰ ٱللَّهِ عَزَّ وَجَلَّ بِكُمْ
+254 | I seek nearness to Him in your names, | وَمُتَقَرِّبٌ بِكُمْ إِلَيْهِ
+255 | I provide you as my means for seeking fulfillment of my desires, | وَمُقَدِّمُكُمْ أَمَامَ طَلِبَتِي
+256 | needs, and wishes, | وَحَوَائِجِي وَإِرَادَتِي
+257 | in all of my manners and affairs, | فِي كُلِّ أَحْوَالِي وَأُمُورِي
+258 | I believe in your invisibility, visibility, | مُؤْمِنٌ بِسِرِّكُمْ وَعَلاَنِيَتِكُمْ
+259 | presence, absence, | وَشَاهِدِكُمْ وَغَائِبِكُمْ
+260 | first, and last of you; | وَأَوَّلِكُمْ وَآخِرِكُمْ
+261 | and I confide all that to you | وَمُفَوِّضٌ فِي ذٰلِكَ كُلِّهِ إِلَيْكُمْ
+262 | and submit to all of it with you. | وَمُسَلِّمٌ فِيهِ مَعَكُمْ
+263 | My heart is subservient to you, | وَقَلْبِي لَكُمْ مُسَلِّمٌ
+264 | my opinion is following yours, | وَرَأْيِي لَكُمْ تَبَعٌ
+265 | and my support to you is all set | وَنُصْرَتِي لَكُمْ مُعَدَّةٌ
+266 | until Allah the All-exalted restores His religion to life through you, | حَتَّىٰ يُحْيِيَ ٱللَّهُ تَعَالَىٰ دِينَهُ بِكُمْ
+267 | brings you back again in His days, | وَيَرُدَّكُمْ فِي أَيَّامِهِ
+268 | allows you to appear for (establishing) His justice, | وَيُظْهِرَكُمْ لِعَدْلِهِ
+269 | and gives you power to rule in His land. | وَيُمَكِّنَكُمْ فِي أَرْضِهِ
+270 | So, I am (always) with you, with you, | فَمَعَكُمْ مَعَكُمْ
+271 | but not with any one other than you. | لَا مَعَ غَيْرِكُمْ
+272 | I have full faith in you, | آمَنْتُ بِكُمْ
+273 | and I declare my loyalty to the last of you just as I declared it to the first of you. | وَتَوَلَّيْتُ آخِرَكُمْ بِمَا تَوَلَّيْتُ بِهِ أَوَّلَكُمْ
+274 | In the presence of Allah the Almighty and All-majestic, I repudiate | وَبَرِئْتُ إِلَىٰ ٱللَّهِ عَزَّ وَجَلَّ
+275 | your enemies, | مِنْ أَعْدَائِكُمْ
+276 | all idols, false deities, | وَمِنَ ٱلْجِبْتِ وَٱلطَّاغُوتِ
+277 | the devils, and their party who have wronged you, | وَٱلشَّيَاطِينِ وَحِزْبِهِمُ ٱلظَّالِمِينَ لَكُمْ
+278 | denied your rights, | ٱلْجَاحِدِينَ لِحَقِّكُمْ
+279 | apostatized from your (divinely commissioned) leadership, | وَٱلْمَارِقِينَ مِنْ وِلاَيَتِكُمْ
+280 | usurped your inheritance, | وَٱلْغَاصِبِينَ لإِرْثِكُمْ
+281 | arisen doubts about you, | ٱلشَّاكِّينَ فِيكُمْ
+282 | and deviated from you, | ٱلْمُنْحَرِفِينَ عَنْكُمْ
+283 | and (I repudiate) any adherence to anyone other than you, | وَمِنْ كُلِّ وَلِيجَةٍ دُونَكُمْ
+284 | any obeyed one save you, | وَكُلِّ مُطَاعٍ سِوَاكُمْ
+285 | and the leaders who call to Hellfire. | وَمِنَ ٱلْأَئِمَّةِ ٱلَّذِينَ يَدْعُونَ إِلَىٰ ٱلنَّارِ
+286 | May Allah make me firm forever as long as I am alive | فَثَبَّتَنِيَ ٱللَّهُ أَبَداً مَا حَيِيتُ
+287 | on loyalty to you, | عَلَىٰ مُوَالاَتِكُمْ
+288 | love for you, and on your religion. | وَمَحَبَّتِكُمْ وَدِينِكُمْ
+289 | May He grant me success in obedience to you, | وَوَفَّقَنِي لِطَاعَتِكُمْ
+290 | endue me with your intercession, | وَرَزَقَنِي شَفَاعَتَكُمْ
+291 | make me of the best of your loyalists | وَجَعَلَنِي مِنْ خِيَارِ مَوَالِيكُمْ
+292 | who carry out all that to which you have called, | ٱلتَّابِعِينَ لِمَا دَعَوْتُمْ إِلَيْهِ
+293 | and make me of those who are tracking your footsteps, | وَجَعَلَنِي مِمَّنْ يَقْتَصُّ آثَارَكُمْ
+294 | taking your path, | وَيَسْلُكُ سَبِيلَكُمْ
+295 | following your guidance, | وَيَهْتَدِي بِهُدَاكُمْ
+296 | (and those who are) resurrected in your group, | وَيُحْشَرُ فِي زُمْرَتِكُمْ
+297 | given the chance to appear again in your Return, | وَيَكِرُّ فِي رَجْعَتِكُمْ
+298 | given authority in your administration, | وَيُمَلَّكُ فِي دَوْلَتِكُمْ
+299 | honored to live under your sound supervision, | وَيُشَرَّفُ فِي عَافِيَتِكُمْ
+300 | given power in your days, | وَيُمَكَّنُ فِي أَيَّامِكُمْ
+301 | and having their eyes delighted by seeing you in the morrow. | وَتَقِرُّ عَيْنُهُ غَداً بِرُؤْيَتِكُمْ
+302 | May my father, mother, | بِأَبِي أَنْتُمْ وَأُمِّي
+303 | soul, family, and possessions be ransoms for you. | وَنَفْسِي وَأَهْلِي وَمَالِي
+304 | Whoever desires for Allah should begin with you, | مَنْ أَرَادَ ٱللَّهَ بَدَأَ بِكُمْ
+305 | whoever professes His Oneness should accept your instructions, | وَمَنْ وَحَّدَهُ قَبِلَ عَنْكُمْ
+306 | and whoever heads for Him should make you the means to Him. | وَمَنْ قَصَدَهُ تَوَجَّهَ بِكُمْ
+307 | O my masters, I cannot count your merits | مَوَالِيَّ لَا أُحْصِي ثَنَائَكُمْ
+308 | and I cannot attain the utmost of praise of you | وَلاَ أَبْلُغُ مِنَ ٱلْمَدْحِ كُنْهَكُمْ
+309 | and the utmost of the description of your actual value, | وَمِنَ ٱلْوَصْفِ قَدْرَكُمْ
+310 | since you are the light of the upright ones, | وَأَنْتُمْ نُورُ ٱلْأَخْيَارِ
+311 | the guides of the pious ones, | وَهُدَاةُ ٱلْأَبْرَارِ
+312 | and the arguments of the Supreme Lord. | وَحُجَجُ ٱلْجَبَّارِ
+313 | With you has Allah begun creation | بِكُمْ فَتَحَ ٱللَّهُ
+314 | and with you will He seal it. | وَبِكُمْ يَخْتِمُ
+315 | For your sake does He pour down rain, | وَبِكُمْ يُنَزِّلُ ٱلْغَيْثَ
+316 | for your sake does He withhold the heavens from falling on the earth except by His permission, | وَبِكُمْ يُمْسِكُ ٱلسَّمَاءَ أَنْ تَقَعَ عَلَىٰ ٱلْأَرْضِ إِلاَّ بِإِذْنِهِ
+317 | and out of consideration for you does He dismiss agonies | وَبِكُمْ يُنَفِّسُ ٱلْهَمَّ
+318 | and relieves harms. | وَيَكْشِفُ ٱلضُّرَّ
+319 | In your possession is all that which His Messengers brought down | وَعِنْدَكُمْ مَا نَزَلَتْ بِهِ رُسُلُهُ
+320 | and with which His angels descended. | وَهَبَطَتْ بِهِ مَلاَئِكَتُهُ
+321 | To your forefather( ) was the Honest Spirit sent. | وَإِلَىٰ جَدِّكُمْ بُعِثَ ٱلرُّوحُ الأَمِينُ
+322 | Allah has given you that which He has not given to any one all over the worlds. | آتَاكُمُ ٱللَّهُ مَا لَمْ يُؤْتِ أَحَداً مِنَ ٱلْعَالَمِينَ
+323 | All highborn ones nod down their heads before your noble lineage, | طَأْطَأَ كُلُّ شَرِيفٍ لِشَرَفِكُمْ
+324 | all arrogant ones submit to the obedience to you, | وَبَخَعَ كُلُّ مُتَكَبِّرٍ لِطَاعَتِكُمْ
+325 | all insolent oppressors succumb to your excellence, | وَخَضَعَ كُلُّ جَبَّارٍ لِفَضْلِكُمْ
+326 | all things are humiliated before you, | وَذَلَّ كُلُّ شَيْءٍ لَكُمْ
+327 | the earth has been lit up with your light, | وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِكُمْ
+328 | and the winners have attained triumph due to their loyalty to you. | وَفَازَ ٱلْفَائِزُونَ بِوِلاَيَتِكُمْ
+329 | Through you can the way to Paradise be taken | بِكُمْ يُسْلَكُ إِلَىٰ ٱلرِّضْوَانِ
+330 | and the ire of the All-beneficent is poured on whoever has denied your (divinely commissioned) leadership. | وَعَلَىٰ مَنْ جَحَدَ وِلاَيَتَكُمْ غَضَبُ ٱلرَّحْمٰنِ
+331 | May my father, mother, | بِأَبِي أَنْتُمْ وَأُمِّي
+332 | soul, family, and possessions be ransoms for you. | وَنَفْسِي وَأَهْلِي وَمَالِي
+333 | your mention is within the mention of others. | ذِكْرُكُمْ فِي ٱلذَّاكِرِينَ
+334 | Your names are called along with other names. | وَأَسْمَاؤُكُمْ فِي ٱلْأَسْمَاءِ
+335 | Your figures appear among other figures. | وَأَجْسَادُكُمْ فِي ٱلْأَجْسَادِ
+336 | Your souls are among other souls. | وَأَرْوَاحُكُمْ فِي ٱلْأَرْوَاحِ
+337 | Your selves are among other selves. | وَأَنْفُسُكُمْ فِي ٱلنُّفُوسِ
+338 | Your traditions are among other traditions. | وَآثَارُكُمْ فِي ٱلآثَارِ
+339 | Your graves are among other graves. | وَقُبُورُكُمْ فِي ٱلْقُبُورِ
+340 | But how gracious your names are! | فَمَا أَحْلىٰ أَسْمَاءَكُمْ
+341 | How noble your souls are! | وَأَكْرَمَ أَنْفُسَكُمْ
+342 | How superior your affairs are! | وَأَعْظَمَ شَأْنَكُمْ
+343 | How majestic your stations are! | وَأَجَلَّ خَطَرَكُمْ
+344 | How dependable your covenants are! | وَأَوْفَىٰ عَهْدَكُمْ
+345 | How truthful your promises are! | وَأَصْدَقَ وَعْدَكُمْ
+346 | Your words are illumination. | كَلاَمُكُمْ نُورٌ
+347 | Your affairs are (leading to) orthodoxy. | وَأَمْرُكُمْ رُشْدٌ
+348 | Your precepts are piety. | وَوَصِيَّتُكُمُ التَّقْوَىٰ
+349 | Your deeds are all good. | وَفِعْلُكُمُ ٱلْخَيْرُ
+350 | Your habits are charity. | وَعَادَتُكُمُ ٱلإِحْسَانُ
+351 | Your nature is generosity. | وَسَجِيَّتُكُمُ ٱلْكَرَمُ
+352 | Your issue is truth, | وَشَأْنُكُمُ ٱلْحَقُّ
+353 | honesty, and lenience. | وَٱلصِّدْقُ وَٱلرِّفْقُ
+354 | Your words are judgments and decisiveness. | وَقَوْلُكُمْ حُكْمٌ وَحَتْمٌ
+355 | Your views are (based upon) knowledge, temperance, and forethought. | وَرَأْيُكُمْ عِلْمٌ وَحِلْمٌ وَحَزْمٌ
+356 | Whenever goodness is mentioned, you are its initiation, | إِنْ ذُكِرَ ٱلْخَيْرُ كُنْتُمْ أَوَّلَهُ
+357 | origin, branch, | وَأَصْلَهُ وَفَرْعَهُ
+358 | essence, center, and ultimate. | وَمَعْدِنَهُ وَمَأْوَاهُ وَمُنْتَهَاهُ
+359 | May my father, mother, and soul be ransoms for you. | بِأَبِي أَنْتُمْ وَأُمِّي وَنَفْسِي
+360 | How shall I describe the excellence of your merits | كَيْفَ أَصِفُ حُسْنَ ثَنَائِكُمْ
+361 | and define the beauty of your conferrals? | وَأُحْصِي جَمِيلَ بَلاَئِكُمْ
+362 | It is on account of you that Allah has pulled us out of degradation, | وَبِكُمْ أَخْرَجَنَا ٱللَّهُ مِنَ ٱلذُّلِّ
+363 | removed from us the clutches of hardships, | وَفَرَّجَ عَنَّا غَمَرَاتِ ٱلْكُرُوبِ
+364 | and saved us from the brink of the pit of perditions | وَأَنْقَذَنَا مِنْ شَفَا جُرُفِ ٱلْهَلَكَاتِ
+365 | and from the Fire. | وَمِنَ ٱلنَّارِ
+366 | May my father, mother, and soul be ransoms for you. | بِأَبِي أَنْتُمْ وَأُمِّي وَنَفْسِي
+367 | Through our loyalty to your leadership, Allah has taught us the features of our religion | بِمُوَالاَتِكُمْ عَلَّمَنَا ٱللَّهُ مَعَالِمَ دِينِنَا
+368 | and has set aright the spoiled items of our worldly lives. | وَأَصْلَحَ مَاكَانَ فَسَدَ مِنْ دُنْيَانَا
+369 | Through our loyalty to your leadership, the Word has been perfected, | وَبِمُوَالاَتِكُمْ تَمَّتِ ٱلْكَلِمَةُ
+370 | the grace has become great, | وَعَظُمَتِ ٱلنِّعْمَةُ
+371 | and the discord has turned into alliance. | وَائْتَلَفَتِ ٱلْفُرْقَةُ
+372 | Through our loyalty to your leadership, the obligatory obedience (to Allah) is accepted. | وَبِمُوَالاَتِكُمْ تُقْبَلُ ٱلطَّاعَةُ ٱلْمُفْتَرَضَةُ
+373 | To you alone are the obligatory affection, | وَلَكُمُ ٱلْمَوَدَّةُ ٱلْوَاجِبَةُ
+374 | the elevated ranks, | وَٱلدَّرَجَاتُ ٱلرَّفِيعَةُ
+375 | the praiseworthy standing, | وَٱلْمَقَامُ ٱلْمَحْمُودُ
+376 | the renowned station with Allah the Almighty and All-majestic, | وَٱلْمَكَانُ ٱلْمَعْلُومُ عِنْدَ ٱللَّهِ عَزَّ وَجَلَّ
+377 | the topmost prestige, | وَٱلْجَاهُ ٱلْعَظِيمُ
+378 | the supreme station, | وَٱلشَّأْنُ ٱلْكَبِيرُ
+379 | and the admitted intercession. | وَٱلشَّفَاعَةُ ٱلْمَقْبُولَةُ
+380 | O our Lord, we believe in that which You have sent down | رَبَّنَا آمَنَّا بِمَا أَنْزَلْتَ
+381 | and we follow the Messenger; | وَٱتَّبَعْنَا ٱلرَّسُولَ
+382 | so, write our names among those who bear witness. | فَٱكْتُبْنَا مَعَ ٱلشَّاهِدِينَ
+383 | Our Lord, cause not our hearts to stray after You have guided us, | رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا
+384 | and bestow upon us mercy from Your Presence. | وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً
+385 | Lo! You, only You, are the Bestower. | إِنَّكَ أَنْتَ ٱلْوَهَّابُ
+386 | Glory be to our Lord | سُبْحَانَ رَبِّنَا
+387 | for in fact the promise of our Lord immediately takes effect. | إِنْ كَانَ وَعْدُ رَبِّنَا لَمَفْعُولاًَ
+388 | O vicegerent of Allah!( ) | يَا وَلِيَّ ٱللَّهِ
+389 | There stand between me and Allah the Almighty and All-majestic, sins | إِنَّ بَيْنِي وَبيْنَ ٱللَّهِ عَزَّ وَجَلَّ ذُنُوباً
+390 | that cannot be demolished except by attaining your satisfaction. | لَا يَأْتِي عَلَيْهَا إِلَّا رِضَاكُمْ
+391 | Therefore, [I beseech you] in the name of the One Who has entrusted you with His secret, | فَبِحَقِّ مَنِ ٱئْتَمَنَكُمْ عَلَىٰ سِرِّهِ
+392 | assigned you to supervise the affairs of His creatures, | وَٱسْتَرْعَاكُمْ أَمْرَ خَلْقِهِ
+393 | and attached the obedience to Him with the obedience to you, | وَقَرَنَ طَاعَتَكُمْ بِطَاعَتِهِ
+394 | to (please) endue me with the favor of absolving my sins | لَمَّا ٱسْتَوْهَبْتُمْ ذُنُوبِي
+395 | and to be my intercessors, | وَكُنْتُمْ شُفَعَائِي
+396 | for I am obedient to you. | فَإِنِّي لَكُمْ مُطِيعٌ
+397 | He who obeys you has in fact obeyed Allah, | مَنْ أَطَاعَكُمْ فَقَدْ أَطَاعَ ٱللَّهَ
+398 | he who disobeys you has in fact disobeyed Allah, | وَمَنْ عَصَاكُمْ فَقَدْ عَصَىٰ ٱللَّهَ
+399 | he who loves you has in fact loved Allah, | وَمَنْ أَحَبَّكُمْ فَقَدْ أَحَبَّ ٱللَّهَ
+400 | and he who hates you has in fact hated Allah. | وَمَنْ أَبْغَضَكُمْ فَقَدْ أَبْغَضَ ٱللَّهَ
+401 | O Allah, had I known interceders | اَللَّهُمَّ إِنِّي لَوْ وَجَدْتُ شُفَعَاءَ
+402 | that are closer to You than Muhammad and his Household | أَقْرَبَ إِلَيْكَ مِنْ مُحَمِّد وَأَهْلِ بَيْتِهِ
+403 | the virtuous and pious Imams, | ٱلْأَخْيَارِ ٱلْأَئِمَّةِ ٱلْأَبْرَارِ
+404 | I would have chosen them as my intercessors. | لَجَعَلْتُهُمْ شُفَعَائِي
+405 | So, [I beseech You] in the name of their Right that You have made obligatory upon You, | فَبِحَقِّهِمُ ٱلَّذِي أَوْجَبْتَ لَهُمْ عَلَيْكَ
+406 | (please) include me with the group of those who recognize their Right and them | أَسْأَلُكَ أَنْ تُدْخِلَنِي فِي جُمْلَةِ ٱلْعَارِفِينَ بِهِمْ وَبِحَقِّهِمْ
+407 | and with the assembly of those who are shown mercy owing to their (i.e. Muhammad and his Household) intercession. | وَفِي زُمْرَةِ ٱلْمَرْحُومِينَ بِشَفَاعَتِهِمْ
+408 | Verily, You are the most merciful of all those who show mercy. | إِنَّكَ أَرْحَمُ ٱلرَّاحِمِينَ
+409 | May Allah send blessings upon Muhammad and his immaculate Household | وَصَلَّىٰ ٱللَّهُ عَلَىٰ مُحَمَّدٍ وَآلِهِ ٱلطَّاهِرينَ
+410 | and send His thorough peace upon them. | وَسَلَّمَ تَسْلِيماً كَثِيراً
+411 | Allah is Sufficient for us! Most Excellent is He in Whom we trust. | وَحَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ

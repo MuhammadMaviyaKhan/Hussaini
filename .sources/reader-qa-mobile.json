@@ -1,0 +1,23 @@
+{
+  "width": 390,
+  "height": 844,
+  "mobile": true,
+  "steps": [
+    { "goto": "/ziyarat/ziyarat-ashura", "wait": 900 },
+    { "eval": "({ title: document.title, h1: document.querySelector('.reader-hero h1')?.textContent, passages: document.querySelectorAll('.reader-passage').length, overflow: document.documentElement.scrollWidth - document.documentElement.clientWidth, backBtn: document.querySelector('.reader-topbar__back')?.getBoundingClientRect().width, saveBtn: document.querySelector('.reader-topbar__actions button')?.getBoundingClientRect(), topbar: document.querySelector('.reader-topbar')?.getBoundingClientRect() })", "log": "MOBILE INITIAL", "shot": "reader-m-top" },
+    { "scrollTo": 500, "wait": 800, "shot": "reader-m-tools" },
+    { "click": ".reader-aside__toggle", "wait": 500 },
+    { "eval": "({ tocDisplay: getComputedStyle(document.querySelector('.reader-toc')).display, sourceDisplay: getComputedStyle(document.querySelector('.reader-source')).display, toggleExpanded: document.querySelector('.reader-aside__toggle').getAttribute('aria-expanded'), overflow: document.documentElement.scrollWidth - document.documentElement.clientWidth })", "log": "TOC OPEN", "shot": "reader-m-toc-open" },
+    { "click": ".reader-aside .reader-toc button:nth-of-type(2)", "wait": 1000 },
+    { "eval": "({ scrollY: window.scrollY, topbar: document.querySelector('.reader-topbar')?.getBoundingClientRect().bottom, target: document.querySelector('#passage-1')?.getBoundingClientRect().top, tocOpen: document.querySelector('.reader-aside').className })", "log": "MOBILE TOC NAV", "shot": "reader-m-passage" },
+    { "click": ".reader-passage#passage-1 .reader-passage__copy", "wait": 500 },
+    { "eval": "({ toast: document.querySelector('.reader-toast')?.textContent.trim(), toastVisible: document.querySelector('.reader-toast')?.classList.contains('is-visible') })", "log": "COPY", "shot": "reader-m-copy" },
+    { "scrollTo": 900, "wait": 700 },
+    { "click": ".reader-tools--inline .reader-tools__mode", "wait": 800 },
+    { "eval": "({ body: document.body.className, floating: getComputedStyle(document.querySelector('.reader-tools--floating')).display, floatingRect: document.querySelector('.reader-tools--floating')?.getBoundingClientRect(), overflow: document.documentElement.scrollWidth - document.documentElement.clientWidth, hero: getComputedStyle(document.querySelector('.reader-hero')).display, aside: getComputedStyle(document.querySelector('.reader-aside')).display })", "log": "MOBILE READING", "shot": "reader-m-reading" },
+    { "eval": "(() => { const c=[...document.querySelectorAll('.reader-tools--floating .reader-chip')]; c[3]?.click(); return c.length })()", "wait": 500 },
+    { "eval": "({ urdu: document.querySelectorAll('.reader-lang--urdu').length, active: [...document.querySelectorAll('.reader-tools--floating .reader-chip')].map(b=>b.getAttribute('aria-pressed')) })", "log": "URDU OFF MOBILE", "shot": "reader-m-reading-urdu-off" },
+    { "scrollTo": 0, "wait": 500 },
+    { "eval": "({ bodyTop: document.body.getBoundingClientRect().top, topbar: document.querySelector('.reader-topbar')?.getBoundingClientRect(), page: document.querySelector('.reader-page')?.getBoundingClientRect().top, overflow: document.documentElement.scrollWidth - document.documentElement.clientWidth })", "log": "MOBILE READING TOP", "shot": "reader-m-reading-top" }
+  ]
+}

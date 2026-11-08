@@ -1,0 +1,18 @@
+{
+  "width": 1440,
+  "height": 900,
+  "steps": [
+    { "goto": "/", "wait": 1000 },
+    { "eval": "(() => { const before=getComputedStyle(document.body).overflow; window.dispatchEvent(new KeyboardEvent('keydown',{key:'k',ctrlKey:true,bubbles:true})); return { before } })()", "wait": 700 },
+    { "eval": "(() => { const panel=document.querySelector('.search-panel')?.getBoundingClientRect(); const overlay=getComputedStyle(document.querySelector('.search-overlay')); return { overlay: Boolean(document.querySelector('.search-overlay')), active: document.activeElement?.getAttribute('aria-label'), bodyOverflow: getComputedStyle(document.body).overflow, panel: panel ? { top:panel.top, bottom:panel.bottom, width:panel.width } : null, zIndex: overlay.zIndex, background: overlay.backgroundColor } })()", "log": "SEARCH CTRL K", "shot": "qa-search-open" },
+    { "eval": "(() => { const input=document.querySelector('.search-panel input'); const setter=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value').set; setter.call(input,'Karbala'); input.dispatchEvent(new Event('input',{bubbles:true})); return true })()", "wait": 500 },
+    { "eval": "({ results: [...document.querySelectorAll('.search-result')].map(e => ({ title:e.querySelector('strong')?.textContent, type:e.querySelector('.search-result__type')?.textContent })), meta: document.querySelector('.search-panel__meta span')?.textContent, scrollHeight: document.querySelector('.search-results')?.scrollHeight, clientHeight: document.querySelector('.search-results')?.clientHeight })", "log": "SEARCH RESULTS", "shot": "qa-search-results" },
+    { "eval": "(() => { window.dispatchEvent(new KeyboardEvent('keydown',{key:'Escape',bubbles:true})); return true })()", "wait": 500 },
+    { "eval": "({ overlay: Boolean(document.querySelector('.search-overlay')), bodyOverflow: getComputedStyle(document.body).overflow })", "log": "SEARCH ESCAPE" },
+    { "click": ".nav-search", "wait": 600 },
+    { "eval": "({ overlay: Boolean(document.querySelector('.search-overlay')), active: document.activeElement?.getAttribute('aria-label') })", "log": "SEARCH CLICK" },
+    { "eval": "(() => { const input=document.querySelector('.search-panel input'); const setter=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value').set; setter.call(input,'Tasbeeh'); input.dispatchEvent(new Event('input',{bubbles:true})); return true })()", "wait": 400 },
+    { "click": ".search-result", "wait": 1000 },
+    { "eval": "({ path: location.pathname, overlay: Boolean(document.querySelector('.search-overlay')), bodyOverflow: getComputedStyle(document.body).overflow, h1: document.querySelector('h1')?.textContent })", "log": "SEARCH NAV", "shot": "qa-search-nav" }
+  ]
+}

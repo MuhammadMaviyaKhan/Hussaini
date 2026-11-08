@@ -1,0 +1,319 @@
+/* ══════════════════════════════════════════════════════════════
+   HUSSAINI · Responsive & accessibility refinements
+   Cross-cutting rules applied after all page modules.
+   ══════════════════════════════════════════════════════════════ */
+
+/* ── Anchors below the fixed header ────────────────────────── */
+[id] {
+  scroll-margin-top: calc(var(--nav-height) + 22px);
+}
+
+.reader-page [id] {
+  scroll-margin-top: calc(var(--nav-height) + 150px);
+}
+
+/* ── Focus ─────────────────────────────────────────────────── */
+:where(a, button, input, select, textarea, summary, [tabindex]):focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+
+.site-header :where(a, button):focus-visible,
+.reader-topbar :where(a, button):focus-visible {
+  outline-offset: 2px;
+}
+
+/* ── Media defaults ────────────────────────────────────────── */
+img,
+svg {
+  max-width: 100%;
+}
+
+img {
+  display: block;
+}
+
+figure {
+  margin: 0;
+}
+
+/* Long Arabic and URLs should never force horizontal scroll. */
+.arabic,
+.urdu,
+.reader-passage__arabic,
+.reader-lang p,
+.hadith-card__arabic,
+.contact-info__item strong {
+  overflow-wrap: break-word;
+}
+
+/* ── Touch devices ─────────────────────────────────────────── */
+@media (hover: none) {
+  .reader-passage__copy,
+  .reader-page.is-reading .reader-passage__copy {
+    opacity: 0.7;
+  }
+
+  .hadith-card:hover,
+  .library-card:hover,
+  .source-card:hover,
+  .credit-card:hover,
+  .path-card:hover,
+  .observe-card:hover,
+  .prerequisite-card:hover {
+    transform: none;
+  }
+}
+
+/* Make small controls comfortable to tap. */
+@media (pointer: coarse) {
+  .reader-chip,
+  .filter-chip,
+  .month-tab,
+  .target-button,
+  .dhikr-chip,
+  .reader-font-control button,
+  .reader-icon-button {
+    min-height: 38px;
+  }
+
+  .reader-toc button {
+    padding-block: 0.8rem;
+  }
+
+  .contact-socials a,
+  .footer-column a,
+  .not-found__links a {
+    padding-block: 0.25rem;
+  }
+}
+
+/* ── Tablet refinements ────────────────────────────────────── */
+@media (max-width: 1024px) {
+  .container {
+    --gutter: clamp(1.15rem, 3.4vw, 2rem);
+  }
+
+  .topline__center {
+    display: none;
+  }
+
+  .topline__inner {
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 900px) {
+  .site-header .topline {
+    display: none;
+  }
+
+  .page-hero__actions {
+    gap: 0.6rem;
+  }
+
+  .page-hero__actions .btn {
+    flex: 0 1 auto;
+  }
+}
+
+/* ── Small screens ─────────────────────────────────────────── */
+@media (max-width: 600px) {
+  .container {
+    --gutter: 1.15rem;
+  }
+
+  .section {
+    padding-top: clamp(2.8rem, 9vw, 4rem);
+    padding-bottom: clamp(2.8rem, 9vw, 4rem);
+  }
+
+  .page-hero {
+    min-height: 460px;
+    padding-top: calc(var(--nav-height) + 3.2rem);
+    padding-bottom: 3rem;
+  }
+
+  .page-hero__title {
+    font-size: clamp(2.5rem, 12vw, 3.6rem);
+  }
+
+  .page-hero__intro {
+    font-size: 0.92rem;
+  }
+
+  .btn {
+    min-height: 46px;
+    padding-inline: 1rem;
+    font-size: 0.62rem;
+  }
+
+  .reader-topbar {
+    top: 68px;
+  }
+
+  .closing-invocation__arabic {
+    font-size: clamp(1.2rem, 6vw, 1.6rem);
+  }
+
+  .footer-cta__actions,
+  .page-hero__actions {
+    width: 100%;
+  }
+
+  .page-hero__actions .btn,
+  .footer-cta__actions .btn {
+    width: 100%;
+  }
+
+  .quote-band__arabic {
+    font-size: clamp(1.4rem, 7vw, 2rem);
+  }
+}
+
+@media (max-width: 380px) {
+  body {
+    font-size: 15px;
+  }
+
+  .reader-tools__chips {
+    gap: 0.25rem;
+  }
+
+  .reader-chip {
+    padding-inline: 0.45rem;
+    font-size: 0.58rem;
+  }
+
+  .dhikr-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .tasbeeh-target__options {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .month-tabs {
+    grid-template-columns: 1fr;
+  }
+
+  .prayer-cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── Short viewports ───────────────────────────────────────── */
+@media (max-height: 620px) and (min-width: 901px) {
+  .reader-aside {
+    max-height: calc(100vh - 130px);
+  }
+
+  .hero {
+    min-height: 640px;
+  }
+}
+
+/* ── High contrast / reduced transparency ──────────────────── */
+@media (prefers-reduced-transparency: reduce) {
+  .site-header.is-scrolled .nav-shell,
+  .reader-topbar,
+  .reader-tools,
+  .reader-tools--floating,
+  .karbala-shrine__label {
+    backdrop-filter: none;
+    background: #070808;
+  }
+}
+
+@media (forced-colors: active) {
+  .btn,
+  .tag,
+  .filter-chip,
+  .reader-chip,
+  .reader-icon-button,
+  .reader-tools__mode,
+  .month-tab {
+    border: 1px solid ButtonText;
+  }
+
+  .btn--gold,
+  .tag--gold,
+  .reader-chip.is-active {
+    forced-color-adjust: none;
+    background: Highlight;
+    color: HighlightText;
+  }
+}
+
+/* ── Print ─────────────────────────────────────────────────── */
+@media print {
+  :root {
+    --bg: #fff;
+    --bg-deep: #fff;
+    --surface: #fff;
+    --ink: #111;
+    --ink-soft: #222;
+    --muted: #444;
+  }
+
+  body {
+    background: #fff !important;
+    color: #111;
+  }
+
+  body::after,
+  .site-header,
+  .site-footer,
+  .scroll-progress,
+  .reader-topbar,
+  .reader-aside,
+  .reader-tools,
+  .reader-toast,
+  .reader-hero,
+  .reader-end__actions,
+  .reader-nav,
+  .scroll-to-top,
+  .search-overlay,
+  .mobile-drawer {
+    display: none !important;
+  }
+
+  .reader-page {
+    padding-top: 0;
+  }
+
+  .reader-body,
+  .reader-page.is-reading .reader-body {
+    padding: 0;
+  }
+
+  .reader-layout,
+  .reader-page.is-reading .reader-layout {
+    display: block;
+    max-width: none;
+  }
+
+  .reader-intro,
+  .reader-passage {
+    break-inside: avoid;
+    border-color: #ccc;
+    background: #fff;
+  }
+
+  .reader-passage {
+    page-break-inside: avoid;
+  }
+
+  .reader-lang--arabic p,
+  .reader-lang--transliteration p,
+  .reader-lang--english p,
+  .reader-lang--urdu p,
+  .reader-intro__summary {
+    color: #111;
+  }
+
+  a {
+    color: #111;
+    text-decoration: underline;
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "width": 390,
+  "height": 844,
+  "mobile": true,
+  "steps": [
+    { "goto": "/", "wait": 1000 },
+    { "click": ".mobile-toggle", "wait": 700 },
+    { "eval": "({ drawer: Boolean(document.querySelector('.mobile-drawer')), bodyOverflow: getComputedStyle(document.body).overflow, drawerRect: (() => { const r=document.querySelector('.mobile-drawer')?.getBoundingClientRect(); return r ? { top:r.top, bottom:r.bottom, width:r.width, height:r.height } : null })(), overflow: document.documentElement.scrollWidth - document.documentElement.clientWidth })", "log": "MOBILE DRAWER", "shot": "qa-mobile-drawer" },
+    { "click": ".mobile-group__toggle", "wait": 600 },
+    { "eval": "({ expanded: document.querySelector('.mobile-group__toggle')?.getAttribute('aria-expanded'), links: [...document.querySelectorAll('.mobile-group__links a span')].map(e=>e.textContent), height: document.querySelector('.mobile-group__links')?.getBoundingClientRect().height })", "log": "MOBILE GROUP", "shot": "qa-mobile-group" },
+    { "click": ".mobile-group__links a", "wait": 1000 },
+    { "eval": "({ path: location.pathname, drawer: Boolean(document.querySelector('.mobile-drawer')), bodyOverflow: getComputedStyle(document.body).overflow, h1: document.querySelector('h1')?.textContent })", "log": "MOBILE LINK NAV", "shot": "qa-mobile-nav-target" },
+    { "click": ".mobile-toggle", "wait": 500 },
+    { "click": ".mobile-search", "wait": 800 },
+    { "eval": "({ overlay: Boolean(document.querySelector('.search-overlay')), bodyOverflow: getComputedStyle(document.body).overflow, active: document.activeElement?.tagName, activeLabel: document.activeElement?.getAttribute('aria-label'), results: document.querySelectorAll('.search-result').length, overflow: document.documentElement.scrollWidth - document.documentElement.clientWidth })", "log": "MOBILE SEARCH OPEN", "shot": "qa-mobile-search" },
+    { "eval": "(() => { const input=document.querySelector('.search-panel input'); const setter=Object.getOwnPropertyDescriptor(HTMLInputElement.prototype,'value').set; setter.call(input,'Kumayl'); input.dispatchEvent(new Event('input',{bubbles:true})); return input.value })()", "wait": 500 },
+    { "eval": "({ results: [...document.querySelectorAll('.search-result strong')].map(e=>e.textContent), types: [...document.querySelectorAll('.search-result__type')].map(e=>e.textContent), meta: document.querySelector('.search-panel__meta span')?.textContent })", "log": "MOBILE SEARCH RESULTS", "shot": "qa-mobile-search-results" },
+    { "click": ".search-result", "wait": 1000 },
+    { "eval": "({ path: location.pathname, overlay: Boolean(document.querySelector('.search-overlay')), bodyOverflow: getComputedStyle(document.body).overflow, h1: document.querySelector('h1')?.textContent, title: document.title })", "log": "MOBILE SEARCH NAV", "shot": "qa-mobile-search-nav" }
+  ]
+}

@@ -1,0 +1,1539 @@
+/* ══════════════════════════════════════════════════════════════
+   HUSSAINI · Story — Karbala, Muharram & the Islamic calendar
+   ══════════════════════════════════════════════════════════════ */
+
+/* ── Karbala · key facts ───────────────────────────────────── */
+.section--karbala-facts {
+  padding-top: 0;
+  padding-bottom: 0;
+  position: relative;
+  z-index: 2;
+}
+
+.karbala-facts {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border: 1px solid var(--gold-line);
+  background:
+    linear-gradient(120deg, rgba(198, 164, 90, 0.05), transparent 42%),
+    var(--surface);
+  box-shadow: var(--shadow-panel);
+  transform: translateY(-50%);
+}
+
+.karbala-fact {
+  display: grid;
+  gap: 0.3rem;
+  padding: 1.6rem 1.5rem;
+  border-right: 1px solid var(--gold-line);
+  align-content: start;
+}
+
+.karbala-fact:last-child {
+  border-right: 0;
+}
+
+.karbala-fact svg {
+  color: var(--gold);
+  margin-bottom: 0.35rem;
+}
+
+.karbala-fact > span {
+  font-size: 0.54rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+}
+
+.karbala-fact strong {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: var(--ink);
+}
+
+.karbala-fact small {
+  font-size: 0.68rem;
+  line-height: 1.6;
+  color: var(--muted-2);
+}
+
+/* ── Karbala · opening ─────────────────────────────────────── */
+.section--karbala-opening {
+  background:
+    radial-gradient(760px 520px at 0% 20%, rgba(198, 164, 90, 0.04), transparent 62%),
+    var(--bg);
+}
+
+.karbala-opening {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(300px, 0.85fr);
+  gap: clamp(2.4rem, 6vw, 5.5rem);
+  align-items: start;
+}
+
+.karbala-opening__body {
+  display: grid;
+  gap: 1.8rem;
+}
+
+.karbala-opening__quote {
+  position: relative;
+  display: grid;
+  gap: 1.4rem;
+  padding: clamp(1.8rem, 3.6vw, 2.8rem);
+  border: 1px solid var(--gold-line);
+  background:
+    linear-gradient(160deg, rgba(198, 164, 90, 0.08), transparent 55%),
+    var(--surface);
+  overflow: hidden;
+}
+
+.karbala-opening__quote > svg {
+  color: var(--gold);
+  opacity: 0.8;
+}
+
+.karbala-opening__quote p {
+  position: relative;
+  z-index: 1;
+  font-family: var(--font-serif);
+  font-size: clamp(1.25rem, 2.2vw, 1.55rem);
+  line-height: 1.55;
+  color: var(--ink);
+}
+
+.karbala-opening__quote > span {
+  position: relative;
+  z-index: 1;
+  padding-top: 1rem;
+  border-top: 1px solid var(--gold-line);
+  font-size: 0.58rem;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  line-height: 1.7;
+}
+
+.karbala-opening__pattern {
+  position: absolute;
+  inset: auto -20% -30% 20%;
+  height: 75%;
+  pointer-events: none;
+  mask-image: linear-gradient(180deg, transparent, #000);
+}
+
+/* ── Karbala · timeline ────────────────────────────────────── */
+.section--timeline {
+  position: relative;
+  border-top: 1px solid var(--gold-line);
+  border-bottom: 1px solid var(--gold-line);
+  background:
+    radial-gradient(900px 600px at 50% 0%, rgba(198, 164, 90, 0.05), transparent 60%),
+    var(--bg-deep);
+}
+
+.karbala-timeline {
+  position: relative;
+  display: grid;
+  gap: clamp(1.6rem, 3vw, 2.4rem);
+  margin-top: clamp(2.5rem, 5vw, 4rem);
+}
+
+.karbala-timeline__line {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: linear-gradient(180deg, transparent, var(--gold-line-strong) 6%, var(--gold-line-strong) 94%, transparent);
+}
+
+.karbala-timeline__item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 72px 1fr;
+  align-items: start;
+}
+
+.karbala-timeline__item.is-left .karbala-timeline__card {
+  grid-column: 1;
+  text-align: right;
+}
+
+.karbala-timeline__item.is-right .karbala-timeline__card {
+  grid-column: 3;
+}
+
+.karbala-timeline__marker {
+  grid-column: 2;
+  display: flex;
+  justify-content: center;
+  padding-top: 1.6rem;
+}
+
+.karbala-timeline__marker span {
+  position: relative;
+  z-index: 1;
+  width: 11px;
+  height: 11px;
+  border: 1px solid var(--gold);
+  background: var(--bg-deep);
+  transform: rotate(45deg);
+  box-shadow: 0 0 0 5px var(--bg-deep), 0 0 24px rgba(198, 164, 90, 0.3);
+}
+
+.karbala-timeline__card {
+  position: relative;
+  padding: 1.5rem 1.7rem;
+  border: 1px solid var(--gold-line);
+  background: rgba(15, 18, 17, 0.6);
+  transition: border-color 0.3s, background 0.3s;
+}
+
+.karbala-timeline__card:hover {
+  border-color: var(--gold-line-strong);
+  background: var(--surface);
+}
+
+.karbala-timeline__year {
+  display: inline-block;
+  margin-bottom: 0.4rem;
+  font-size: 0.56rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.karbala-timeline__card h3 {
+  font-family: var(--font-serif);
+  font-size: 1.28rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: var(--ink);
+  margin-bottom: 0.45rem;
+}
+
+.karbala-timeline__card p {
+  font-size: 0.8rem;
+  line-height: 1.75;
+  color: var(--muted);
+}
+
+/* ── Karbala · figures ─────────────────────────────────────── */
+.section--figures {
+  background: var(--bg);
+}
+
+.karbala-figures {
+  display: grid;
+  gap: clamp(1.6rem, 3.5vw, 2.6rem);
+  margin-top: clamp(2.5rem, 5vw, 4rem);
+}
+
+.figure-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+  min-height: 380px;
+  border: 1px solid var(--gold-line);
+  background: var(--surface);
+  overflow: hidden;
+}
+
+.figure-panel--media-right {
+  grid-template-columns: minmax(0, 1.08fr) minmax(0, 0.92fr);
+}
+
+.figure-panel--media-right .figure-panel__media {
+  order: 2;
+}
+
+.figure-panel--media-right .figure-panel__body {
+  order: 1;
+}
+
+.figure-panel__media {
+  position: relative;
+  overflow: hidden;
+  min-height: 300px;
+  background: var(--bg-deep);
+}
+
+.figure-panel__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: saturate(0.7) brightness(0.72) contrast(1.05);
+  transition: transform 1.4s var(--ease), filter 0.6s;
+}
+
+.figure-panel:hover .figure-panel__media img {
+  transform: scale(1.035);
+  filter: saturate(0.85) brightness(0.8) contrast(1.05);
+}
+
+.figure-panel__veil {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgba(5, 6, 6, 0.05), rgba(5, 6, 6, 0.62)),
+    linear-gradient(90deg, transparent 55%, rgba(15, 18, 17, 0.55));
+  pointer-events: none;
+}
+
+.figure-panel--media-right .figure-panel__veil {
+  background:
+    linear-gradient(180deg, rgba(5, 6, 6, 0.05), rgba(5, 6, 6, 0.62)),
+    linear-gradient(270deg, transparent 55%, rgba(15, 18, 17, 0.55));
+}
+
+.figure-panel__number {
+  position: absolute;
+  bottom: 1rem;
+  left: 1.3rem;
+  font-family: var(--font-serif);
+  font-size: clamp(3rem, 6vw, 4.6rem);
+  line-height: 1;
+  color: rgba(232, 210, 150, 0.5);
+}
+
+.figure-panel--media-right .figure-panel__number {
+  left: auto;
+  right: 1.3rem;
+}
+
+.figure-panel__body {
+  display: grid;
+  align-content: center;
+  justify-items: start;
+  gap: 0.85rem;
+  padding: clamp(1.8rem, 4vw, 3.4rem);
+}
+
+.figure-panel__arabic {
+  font-size: clamp(1.5rem, 2.6vw, 1.9rem);
+  color: var(--gold);
+  opacity: 0.85;
+}
+
+.figure-panel__body h3 {
+  font-size: clamp(1.9rem, 3.6vw, 2.8rem);
+  line-height: 1.02;
+  color: var(--ink);
+}
+
+.figure-panel__body p {
+  max-width: 52ch;
+  font-size: 0.86rem;
+  line-height: 1.85;
+  color: var(--muted);
+}
+
+.figure-panel__body .text-link {
+  margin-top: 0.5rem;
+}
+
+/* ── Karbala · lessons ─────────────────────────────────────── */
+.section--lessons {
+  border-top: 1px solid var(--gold-line);
+  background:
+    radial-gradient(800px 500px at 100% 20%, rgba(46, 124, 100, 0.04), transparent 60%),
+    var(--bg-deep);
+}
+
+.lesson-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  margin-top: clamp(2.5rem, 5vw, 4rem);
+  border: 1px solid var(--gold-line);
+  background: var(--gold-line);
+}
+
+.lesson-card {
+  position: relative;
+  display: grid;
+  gap: 0.55rem;
+  align-content: start;
+  padding: clamp(1.7rem, 3vw, 2.4rem);
+  background: var(--bg-deep);
+  overflow: hidden;
+  transition: background 0.35s;
+}
+
+.lesson-card:last-child {
+  grid-column: span 2;
+}
+
+.lesson-card:last-child p {
+  max-width: 62ch;
+}
+
+.lesson-card:hover {
+  background: var(--surface);
+}
+
+.lesson-card__number {
+  position: absolute;
+  top: 1rem;
+  right: 1.2rem;
+  font-family: var(--font-serif);
+  font-size: 2.6rem;
+  line-height: 1;
+  color: rgba(198, 164, 90, 0.13);
+}
+
+.lesson-card__arabic {
+  font-size: 1.65rem;
+  color: var(--gold);
+  opacity: 0.8;
+  margin-bottom: 0.3rem;
+}
+
+.lesson-card h3 {
+  position: relative;
+  font-family: var(--font-serif);
+  font-size: 1.34rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: var(--ink);
+}
+
+.lesson-card p {
+  position: relative;
+  font-size: 0.79rem;
+  line-height: 1.8;
+  color: var(--muted);
+}
+
+/* ── Karbala · shrine ──────────────────────────────────────── */
+.section--karbala-shrine {
+  background: var(--bg);
+}
+
+.karbala-shrine {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+  gap: clamp(2.4rem, 5vw, 4.5rem);
+  align-items: center;
+}
+
+.karbala-shrine__media {
+  position: relative;
+  min-height: 430px;
+  border: 1px solid var(--gold-line);
+  overflow: hidden;
+}
+
+.karbala-shrine__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: saturate(0.65) brightness(0.74);
+}
+
+.karbala-shrine__veil {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 45%, rgba(5, 6, 6, 0.85));
+}
+
+.karbala-shrine__label {
+  position: absolute;
+  left: 1.2rem;
+  bottom: 1.1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.45rem 0.75rem;
+  border: 1px solid rgba(198, 164, 90, 0.4);
+  background: rgba(5, 6, 6, 0.65);
+  backdrop-filter: blur(8px);
+  font-size: 0.57rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-bright);
+}
+
+.karbala-shrine__label svg {
+  color: var(--gold);
+}
+
+.karbala-shrine__body {
+  display: grid;
+  gap: 1.1rem;
+  justify-items: start;
+}
+
+.karbala-shrine__body h2 {
+  font-size: clamp(2.1rem, 4vw, 3.2rem);
+  line-height: 1.02;
+}
+
+.karbala-shrine__body p {
+  max-width: 54ch;
+  font-size: 0.86rem;
+  line-height: 1.85;
+  color: var(--muted);
+}
+
+.karbala-shrine__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 0.6rem;
+}
+
+/* ══════════════════════════════════════════════════════════════
+   Muharram
+   ══════════════════════════════════════════════════════════════ */
+
+.section--muharram-intro {
+  background:
+    radial-gradient(800px 520px at 100% 10%, rgba(198, 164, 90, 0.045), transparent 60%),
+    var(--bg);
+}
+
+.muharram-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(300px, 0.9fr);
+  gap: clamp(2.4rem, 5vw, 5rem);
+  align-items: start;
+}
+
+.muharram-intro__body {
+  display: grid;
+  gap: 1.7rem;
+}
+
+.muharram-intro__actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.muharram-intro__days {
+  display: grid;
+  gap: 0;
+  border: 1px solid var(--gold-line);
+  background: var(--surface);
+  padding: 0 clamp(1.2rem, 2.4vw, 1.8rem) 1.4rem;
+}
+
+.muharram-intro__days-title {
+  display: block;
+  padding: 1.15rem 0 0.9rem;
+  border-bottom: 1px solid var(--gold-line);
+  font-size: 0.56rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.muharram-day {
+  display: grid;
+  grid-template-columns: 66px 1fr;
+  gap: 1.1rem;
+  align-items: start;
+  padding: 0.95rem 0;
+  border-bottom: 1px solid rgba(198, 164, 90, 0.09);
+}
+
+.muharram-day:last-of-type {
+  border-bottom: 0;
+}
+
+.muharram-day__date {
+  display: grid;
+  justify-items: center;
+  gap: 0.05rem;
+  padding: 0.3rem 0.2rem;
+  border: 1px solid var(--gold-line);
+  font-family: var(--font-serif);
+  font-size: 1.3rem;
+  line-height: 1.1;
+  color: var(--gold-bright);
+}
+
+.muharram-day__date small {
+  font-family: var(--font-sans);
+  font-size: 0.45rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+}
+
+.muharram-day strong {
+  display: block;
+  margin-bottom: 0.15rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--ink-soft);
+}
+
+.muharram-day p {
+  font-size: 0.7rem;
+  line-height: 1.65;
+  color: var(--muted-2);
+}
+
+.muharram-intro__days .ornament {
+  margin-top: 1.1rem;
+}
+
+/* ── Muharram · timeline ───────────────────────────────────── */
+.section--muharram-timeline {
+  border-top: 1px solid var(--gold-line);
+  border-bottom: 1px solid var(--gold-line);
+  background: var(--bg-deep);
+}
+
+.muharram-timeline {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  margin-top: clamp(2.5rem, 5vw, 4rem);
+}
+
+.muharram-step {
+  position: relative;
+  display: grid;
+  align-content: start;
+  gap: 0.4rem;
+  padding: 0 0.9rem 0.5rem;
+  text-align: center;
+}
+
+.muharram-step__day {
+  font-family: var(--font-serif);
+  font-size: 1.7rem;
+  color: var(--gold-bright);
+  line-height: 1.2;
+}
+
+.muharram-step__line {
+  display: block;
+  width: calc(100% + 1.8rem);
+  height: 1px;
+  margin: 0.4rem 0 1.2rem;
+  margin-left: -0.9rem;
+  background: var(--gold-line);
+}
+
+.muharram-step:first-child .muharram-step__line {
+  background: linear-gradient(90deg, transparent, var(--gold-line));
+}
+
+.muharram-step:last-child .muharram-step__line {
+  background: linear-gradient(90deg, var(--gold-line), transparent);
+}
+
+.muharram-step__dot {
+  position: absolute;
+  top: 3.45rem;
+  left: 50%;
+  z-index: 1;
+  width: 9px;
+  height: 9px;
+  border: 1px solid var(--gold);
+  border-radius: 50%;
+  background: var(--bg-deep);
+  transform: translateX(-50%);
+}
+
+.muharram-step h3 {
+  margin-top: 0.7rem;
+  font-family: var(--font-serif);
+  font-size: 1.12rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: var(--ink);
+}
+
+.muharram-step p {
+  font-size: 0.7rem;
+  line-height: 1.7;
+  color: var(--muted-2);
+}
+
+.muharram-step.is-highlight .muharram-step__day {
+  color: #e5a08c;
+}
+
+.muharram-step.is-highlight .muharram-step__dot {
+  border-color: #a95c5c;
+  background: #a95c5c;
+  box-shadow: 0 0 16px rgba(169, 92, 92, 0.7);
+}
+
+.muharram-step.is-highlight h3 {
+  color: var(--ink);
+}
+
+/* ── Muharram · observe ────────────────────────────────────── */
+.section--observe {
+  background:
+    radial-gradient(700px 460px at 15% 20%, rgba(198, 164, 90, 0.04), transparent 60%),
+    var(--bg);
+}
+
+.observe-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-top: clamp(2.5rem, 5vw, 4rem);
+}
+
+.observe-card {
+  position: relative;
+  display: grid;
+  align-content: start;
+  gap: 0.75rem;
+  padding: clamp(1.5rem, 2.6vw, 2rem);
+  border: 1px solid var(--gold-line);
+  background: var(--surface);
+  transition: border-color 0.3s, transform 0.35s var(--ease), background 0.3s;
+}
+
+.observe-card:hover {
+  border-color: var(--gold-line-strong);
+  background: var(--surface-2);
+  transform: translateY(-4px);
+}
+
+.observe-card__icon {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border: 1px solid var(--gold-line);
+  background: var(--gold-faint);
+  color: var(--gold);
+}
+
+.observe-card h3 {
+  font-family: var(--font-serif);
+  font-size: 1.26rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: var(--ink);
+}
+
+.observe-card p {
+  font-size: 0.76rem;
+  line-height: 1.75;
+  color: var(--muted);
+}
+
+/* ── Muharram · etiquette ──────────────────────────────────── */
+.section--etiquette {
+  border-top: 1px solid var(--gold-line);
+  background:
+    radial-gradient(700px 500px at 0% 40%, rgba(198, 164, 90, 0.045), transparent 62%),
+    var(--bg-deep);
+}
+
+.etiquette-split {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+  gap: clamp(2.4rem, 5vw, 5rem);
+  align-items: start;
+}
+
+.etiquette-split__intro {
+  display: grid;
+  gap: 1.8rem;
+  align-self: start;
+}
+
+.etiquette-split__quote {
+  display: grid;
+  justify-items: center;
+  gap: 0.55rem;
+  padding: clamp(1.6rem, 3vw, 2.3rem);
+  border: 1px solid var(--gold-line);
+  background:
+    linear-gradient(160deg, rgba(198, 164, 90, 0.07), transparent 60%),
+    var(--surface);
+  text-align: center;
+}
+
+.etiquette-split__quote > span {
+  font-size: clamp(1.5rem, 2.6vw, 1.9rem);
+  color: var(--gold-bright);
+  line-height: 1.7;
+}
+
+.etiquette-split__quote p {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+}
+
+.etiquette-split__quote small {
+  font-size: 0.56rem;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+}
+
+.etiquette-list {
+  display: grid;
+  gap: 0;
+  border-top: 1px solid var(--gold-line);
+}
+
+.etiquette-item {
+  display: grid;
+  grid-template-columns: 44px 1fr;
+  gap: 1.1rem;
+  padding: 1.35rem 0;
+  border-bottom: 1px solid rgba(198, 164, 90, 0.1);
+}
+
+.etiquette-item__number {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  line-height: 1.3;
+  color: var(--gold-dim);
+}
+
+.etiquette-item h3 {
+  margin-bottom: 0.3rem;
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: var(--ink);
+}
+
+.etiquette-item p {
+  font-size: 0.78rem;
+  line-height: 1.75;
+  color: var(--muted);
+}
+
+/* ── Muharram · FAQ ────────────────────────────────────────── */
+.section--muharram-faq,
+.section--calendar-faq {
+  border-top: 1px solid var(--gold-line);
+  background: var(--bg);
+}
+
+.section--cross-link {
+  background: var(--bg);
+}
+
+.section--cross-link--sorrow {
+  background: var(--bg-deep);
+}
+
+.closing-invocation--karbala {
+  background:
+    radial-gradient(700px 460px at 50% 20%, rgba(198, 164, 90, 0.07), transparent 66%),
+    var(--bg-deep);
+}
+
+/* ══════════════════════════════════════════════════════════════
+   Islamic Calendar
+   ══════════════════════════════════════════════════════════════ */
+
+.section--calendar-today {
+  padding-top: clamp(2.5rem, 5vw, 4rem);
+  background:
+    radial-gradient(900px 520px at 85% 0%, rgba(198, 164, 90, 0.05), transparent 62%),
+    var(--bg);
+}
+
+.today-panel {
+  display: grid;
+  grid-template-columns: minmax(300px, 0.78fr) minmax(0, 1.22fr);
+  gap: 0;
+  border: 1px solid var(--gold-line);
+  background: var(--surface);
+  box-shadow: var(--shadow-panel);
+}
+
+.today-panel__date {
+  position: relative;
+  display: grid;
+  align-content: start;
+  gap: 0.9rem;
+  padding: clamp(1.8rem, 3.5vw, 2.8rem);
+  border-right: 1px solid var(--gold-line);
+  background:
+    radial-gradient(420px 300px at 50% 0%, rgba(198, 164, 90, 0.12), transparent 70%),
+    var(--bg-raised);
+  overflow: hidden;
+}
+
+.today-panel__date::after {
+  content: '';
+  position: absolute;
+  inset: 12px;
+  border: 1px solid rgba(198, 164, 90, 0.1);
+  pointer-events: none;
+}
+
+.today-panel__eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.56rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.today-panel__hijri {
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+}
+
+.today-panel__day {
+  font-family: var(--font-serif);
+  font-size: clamp(4rem, 8vw, 6.2rem);
+  line-height: 0.85;
+  color: var(--gold-bright);
+}
+
+.today-panel__hijri div {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.today-panel__hijri strong {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.1;
+  color: var(--ink);
+}
+
+.today-panel__hijri div > span {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+}
+
+.today-panel__arabic {
+  font-size: clamp(1.6rem, 3vw, 2.1rem);
+  color: var(--gold);
+  opacity: 0.75;
+}
+
+.today-panel__date > p {
+  font-size: 0.8rem;
+  line-height: 1.7;
+  color: var(--ink-soft);
+}
+
+.today-panel__date > small {
+  font-size: 0.65rem;
+  line-height: 1.6;
+  color: var(--muted-2);
+}
+
+.today-panel__upcoming {
+  display: grid;
+  align-content: start;
+  gap: 1.2rem;
+  padding: clamp(1.8rem, 3.5vw, 2.8rem);
+}
+
+.today-panel__upcoming-head .eyebrow {
+  margin-bottom: 0.3rem;
+}
+
+.today-panel__upcoming-head h2 {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  line-height: 1.05;
+}
+
+.upcoming-list {
+  display: grid;
+  gap: 0;
+  border-top: 1px solid var(--gold-line);
+}
+
+.upcoming-item {
+  display: grid;
+  grid-template-columns: 58px 1fr auto;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid rgba(198, 164, 90, 0.09);
+}
+
+.upcoming-item.is-today {
+  background: linear-gradient(90deg, rgba(198, 164, 90, 0.08), transparent);
+  padding-left: 0.6rem;
+}
+
+.upcoming-item__date {
+  display: grid;
+  justify-items: center;
+  gap: 0;
+  padding: 0.25rem 0.2rem;
+  border: 1px solid var(--gold-line);
+}
+
+.upcoming-item__date strong {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  line-height: 1.1;
+  color: var(--gold-bright);
+}
+
+.upcoming-item__date span {
+  font-size: 0.45rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+}
+
+.upcoming-item__body {
+  display: grid;
+  gap: 0.1rem;
+  min-width: 0;
+}
+
+.upcoming-item__body strong {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--ink-soft);
+}
+
+.upcoming-item__body small {
+  font-size: 0.62rem;
+  line-height: 1.5;
+  color: var(--muted-2);
+}
+
+.calendar-today-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  padding: 0.85rem 1rem;
+  border-left: 1px solid var(--gold-line-strong);
+  color: var(--muted-2);
+}
+
+.calendar-today-note svg {
+  flex: none;
+  margin-top: 0.15rem;
+  color: var(--gold-dim);
+}
+
+.calendar-today-note p {
+  font-size: 0.68rem;
+  line-height: 1.7;
+}
+
+/* ── Calendar · months ─────────────────────────────────────── */
+.section--calendar-months {
+  border-top: 1px solid var(--gold-line);
+  background:
+    radial-gradient(1000px 600px at 50% 0%, rgba(46, 124, 100, 0.035), transparent 65%),
+    var(--bg-deep);
+}
+
+.month-tabs {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 1px;
+  margin-top: clamp(2.5rem, 5vw, 4rem);
+  border: 1px solid var(--gold-line);
+  background: var(--gold-line);
+}
+
+.month-tab {
+  position: relative;
+  display: grid;
+  justify-items: start;
+  gap: 0.2rem;
+  padding: 1rem 1rem 0.9rem;
+  border: 0;
+  background: var(--bg-deep);
+  font-family: var(--font-sans);
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.25s;
+}
+
+.month-tab:hover {
+  background: var(--surface);
+}
+
+.month-tab.is-active {
+  background:
+    linear-gradient(150deg, rgba(198, 164, 90, 0.14), transparent 70%),
+    var(--surface-2);
+}
+
+.month-tab.is-active::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--gold);
+}
+
+.month-tab__number {
+  font-family: var(--font-serif);
+  font-size: 0.72rem;
+  color: var(--gold-dim);
+}
+
+.month-tab__name {
+  font-family: var(--font-serif);
+  font-size: 1.02rem;
+  font-weight: 500;
+  color: var(--ink-soft);
+}
+
+.month-tab.is-active .month-tab__name {
+  color: var(--gold-bright);
+}
+
+.month-tab__arabic {
+  font-size: 0.82rem;
+  color: var(--muted-2);
+  opacity: 0.85;
+}
+
+.month-tab.is-current .month-tab__number::after {
+  content: ' · now';
+  font-family: var(--font-sans);
+  font-size: 0.42rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--emerald-bright);
+}
+
+.month-panel {
+  margin-top: 1.6rem;
+  border: 1px solid var(--gold-line);
+  background: var(--surface);
+}
+
+.month-panel__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: clamp(1.5rem, 3vw, 2.2rem);
+  border-bottom: 1px solid var(--gold-line);
+  background:
+    linear-gradient(120deg, rgba(198, 164, 90, 0.06), transparent 48%),
+    var(--bg-raised);
+}
+
+.month-panel__head .eyebrow {
+  margin-bottom: 0.35rem;
+}
+
+.month-panel__head h3 {
+  font-size: clamp(1.8rem, 3.4vw, 2.5rem);
+  line-height: 1.05;
+  margin-bottom: 0.35rem;
+}
+
+.month-panel__head p {
+  max-width: 58ch;
+  font-size: 0.78rem;
+  line-height: 1.7;
+  color: var(--muted);
+}
+
+.month-panel__arabic {
+  flex: none;
+  font-size: clamp(2rem, 4.4vw, 3.2rem);
+  line-height: 1.3;
+  color: var(--gold);
+  opacity: 0.6;
+}
+
+.observance-list {
+  display: grid;
+  gap: 0;
+  padding: 0 clamp(1.2rem, 2.6vw, 2rem);
+}
+
+.observance-row {
+  display: grid;
+  grid-template-columns: 54px minmax(0, 1fr) auto;
+  gap: 1.4rem;
+  align-items: start;
+  padding: 1.3rem 0;
+  border-bottom: 1px solid rgba(198, 164, 90, 0.1);
+}
+
+.observance-row:last-child {
+  border-bottom: 0;
+}
+
+.observance-row.is-today {
+  background: linear-gradient(90deg, rgba(198, 164, 90, 0.06), transparent 70%);
+  margin: 0 -1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.observance-row__day {
+  font-family: var(--font-serif);
+  font-size: 1.55rem;
+  line-height: 1.2;
+  color: var(--gold-bright);
+  text-align: center;
+  border-right: 1px solid var(--gold-line);
+  padding-right: 1rem;
+}
+
+.observance-row__body {
+  display: grid;
+  gap: 0.3rem;
+}
+
+.observance-row__body > div {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.observance-row__body strong {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: var(--ink);
+}
+
+.observance-row__arabic {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--gold);
+  opacity: 0.7;
+}
+
+.observance-row__body p {
+  max-width: 62ch;
+  font-size: 0.78rem;
+  line-height: 1.75;
+  color: var(--muted);
+}
+
+.observance-row > .tag {
+  margin-top: 0.2rem;
+}
+
+.observance-list__empty {
+  padding: 2.4rem 0;
+  font-size: 0.8rem;
+  color: var(--muted-2);
+  text-align: center;
+}
+
+.calendar-notes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.2rem 2rem;
+  margin-top: 1.6rem;
+}
+
+.calendar-notes p {
+  position: relative;
+  padding-left: 1rem;
+  border-left: 1px solid var(--gold-line);
+  font-size: 0.66rem;
+  line-height: 1.7;
+  color: var(--muted-2);
+}
+
+/* ── Calendar · FAQ ────────────────────────────────────────── */
+.calendar-faq {
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  gap: clamp(2.4rem, 5vw, 5rem);
+  align-items: start;
+}
+
+.calendar-faq__intro {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.calendar-faq__links {
+  display: grid;
+  gap: 0.7rem;
+  justify-items: start;
+}
+
+/* ── Responsive ────────────────────────────────────────────── */
+@media (max-width: 1100px) {
+  .karbala-facts {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .karbala-fact:nth-child(2) {
+    border-right: 0;
+  }
+
+  .karbala-fact:nth-child(-n + 2) {
+    border-bottom: 1px solid var(--gold-line);
+  }
+
+  .lesson-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .lesson-card:last-child {
+    grid-column: span 2;
+  }
+
+  .observe-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .month-tabs {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .muharram-timeline {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.6rem 0;
+  }
+
+  .muharram-step:nth-child(3) .muharram-step__line,
+  .muharram-step:last-child .muharram-step__line {
+    background: var(--gold-line);
+  }
+}
+
+@media (max-width: 900px) {
+  .karbala-opening,
+  .muharram-intro,
+  .etiquette-split,
+  .calendar-faq {
+    grid-template-columns: 1fr;
+  }
+
+  .karbala-opening__quote {
+    max-width: 640px;
+  }
+
+  .karbala-timeline__line {
+    left: 17px;
+  }
+
+  .karbala-timeline__item {
+    grid-template-columns: 36px minmax(0, 1fr);
+    gap: 0.9rem;
+  }
+
+  .karbala-timeline__item.is-left .karbala-timeline__card,
+  .karbala-timeline__item.is-right .karbala-timeline__card {
+    grid-column: 2;
+    text-align: left;
+  }
+
+  .karbala-timeline__marker {
+    grid-column: 1;
+    grid-row: 1;
+    padding-top: 1.5rem;
+    justify-content: flex-start;
+  }
+
+  .figure-panel,
+  .figure-panel--media-right {
+    grid-template-columns: 1fr;
+    min-height: 0;
+  }
+
+  .figure-panel--media-right .figure-panel__media {
+    order: 0;
+  }
+
+  .figure-panel--media-right .figure-panel__body {
+    order: 1;
+  }
+
+  .figure-panel__media {
+    min-height: 260px;
+    max-height: 360px;
+  }
+
+  .figure-panel__veil,
+  .figure-panel--media-right .figure-panel__veil {
+    background: linear-gradient(180deg, transparent 40%, rgba(15, 18, 17, 0.9));
+  }
+
+  .figure-panel__number,
+  .figure-panel--media-right .figure-panel__number {
+    left: 1.3rem;
+    right: auto;
+  }
+
+  .karbala-shrine {
+    grid-template-columns: 1fr;
+  }
+
+  .karbala-shrine__media {
+    min-height: 340px;
+  }
+
+  .today-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .today-panel__date {
+    border-right: 0;
+    border-bottom: 1px solid var(--gold-line);
+  }
+
+  .month-tabs {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .muharram-timeline {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .calendar-notes {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .karbala-facts {
+    grid-template-columns: 1fr;
+    transform: translateY(-24px);
+  }
+
+  .karbala-fact {
+    border-right: 0;
+    border-bottom: 1px solid var(--gold-line);
+  }
+
+  .karbala-fact:last-child {
+    border-bottom: 0;
+  }
+
+  .lesson-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .lesson-card:last-child {
+    grid-column: span 1;
+  }
+
+  .karbala-timeline__card {
+    padding: 1.15rem 1.2rem;
+  }
+
+  .observe-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .etiquette-item {
+    grid-template-columns: 34px 1fr;
+    gap: 0.8rem;
+  }
+
+  .muharram-timeline {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .muharram-step {
+    display: grid;
+    grid-template-columns: 54px 1fr;
+    justify-items: start;
+    text-align: left;
+    padding: 0 0 1.4rem;
+    column-gap: 1rem;
+  }
+
+  .muharram-step__day {
+    grid-row: 1 / span 2;
+    grid-column: 1;
+  }
+
+  .muharram-step__line {
+    display: none;
+  }
+
+  .muharram-step__dot {
+    display: none;
+  }
+
+  .muharram-step h3 {
+    grid-column: 2;
+    margin-top: 0;
+  }
+
+  .muharram-step p {
+    grid-column: 2;
+  }
+
+  .month-tabs {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .month-panel__head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .month-panel__arabic {
+    font-size: 2.2rem;
+  }
+
+  .observance-row {
+    grid-template-columns: 38px minmax(0, 1fr);
+    gap: 0.9rem;
+  }
+
+  .observance-row > .tag {
+    grid-column: 2;
+    justify-self: start;
+  }
+
+  .observance-row__day {
+    font-size: 1.25rem;
+    padding-right: 0.7rem;
+  }
+
+  .today-panel__hijri {
+    align-items: flex-end;
+  }
+
+  .upcoming-item {
+    grid-template-columns: 46px 1fr;
+  }
+
+  .upcoming-item > .tag {
+    grid-column: 2;
+    justify-self: start;
+  }
+}
